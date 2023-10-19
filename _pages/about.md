@@ -1,7 +1,6 @@
 ---
 permalink: /
-title: "Shuhan Zhang's academic personal websites"
-subtitle: "张书涵的学术主页"
+title: "Shuhan Zhang's academic personal websites <br> 张书涵的学术主页"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -13,7 +12,7 @@ Hi, I am Zhang, Shuhan, a PhD student majoring paleontology and stratigraphy at 
 
 我是张书涵，南京大学古生物学与地层学博士生。主要研究方向为深时宏观演化过程的时空特征，定量地层学和古生物中的数据分析方法。喜欢古诗词，历史及各类影视作品。
 
-Projects 项目
+Projects <br> 项目
 ======
 Coming soon
 
