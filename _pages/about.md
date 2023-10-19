@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Shuhan Zhang's academic personal websites <br> 张书涵的学术主页"
+title: "Shuhan Zhang's academic personal websites \ 张书涵的学术主页"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
