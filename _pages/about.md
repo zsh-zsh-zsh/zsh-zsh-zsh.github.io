@@ -12,7 +12,10 @@ Hi, I am Zhang, Shuhan, a PhD student majoring paleontology and stratigraphy at 
 
 New section
 ======
-This is a new academic personal websites. Still working on this.
+This is a new academic personal websites. Still working on it.
+
+
+![Foot print (field works, meetings, workshops](/images/foot_print.png)
 
 Selected publications
 ======
