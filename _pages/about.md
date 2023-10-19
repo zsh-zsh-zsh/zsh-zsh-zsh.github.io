@@ -12,7 +12,7 @@ Hi, I am Zhang, Shuhan, a PhD student majoring paleontology and stratigraphy at 
 
 我是张书涵，南京大学古生物学与地层学博士生。主要研究方向为深时宏观演化过程的时空特征，定量地层学和古生物中的数据分析方法。喜欢古诗词，历史及各类影视作品。
 
-Projects 
+Projects  
 项目
 ======
 Coming soon
