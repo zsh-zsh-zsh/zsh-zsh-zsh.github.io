@@ -12,14 +12,12 @@ Hi, I am Zhang, Shuhan, a PhD student majoring paleontology and stratigraphy at 
 
 我是张书涵，南京大学古生物学与地层学博士生。主要研究方向为深时宏观演化过程的时空特征，定量地层学和古生物中的数据分析方法。喜欢古诗词，历史及各类影视作品。
 
-New section
+Projects
 ======
-This is a new academic personal websites. Still working on it.
+Coming soon
 
 
-Foot prints (field works, meetings, workshops) 学术足迹
-======
-![Foot print (field works, meetings, workshops)](/images/foot_print.png)
+
 
 Selected publications 代表作
 ======
@@ -27,7 +25,9 @@ Selected publications 代表作
 1. [Two cosmopolitanism events driven by different extreme paleoclimate regimes](https://www.sciencedirect.com/science/article/pii/S0921818122001667?via%3Dihub) 
 1. [Quantifying the middle–late Cambrian trilobite diversity pattern in South China](https://www.sciencedirect.com/science/article/pii/S0031018221001462?dgcid=raven_sd_via_email)
 
-
+Foot prints (field works, meetings, workshops) 学术足迹
+======
+![Foot print (field trips, meetings, workshops)](/images/foot_print.png)
  
 
 More information 更多信息
