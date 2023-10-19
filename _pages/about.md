@@ -1,6 +1,7 @@
 ---
 permalink: /
-title: "Shuhan Zhang's academic personal websites 张书涵的学术主页"
+title: "Shuhan Zhang's academic personal websites"
+subtitle: "张书涵的学术主页"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -12,25 +13,25 @@ Hi, I am Zhang, Shuhan, a PhD student majoring paleontology and stratigraphy at 
 
 我是张书涵，南京大学古生物学与地层学博士生。主要研究方向为深时宏观演化过程的时空特征，定量地层学和古生物中的数据分析方法。喜欢古诗词，历史及各类影视作品。
 
-Projects
+Projects 项目
 ======
 Coming soon
 
 
 
 
-Selected publications 代表作
+Selected publications  代表作
 ======
 1. [Zhang, S.H., Shen, S.Z. and Erwin, D.H., 2022a. Latitudinal diversity gradient dynamics during Carboniferous to Triassic icehouse and greenhouse climates. Geology, 50(10): 1166-1171.](https://pubs.geoscienceworld.org/gsa/geology/article/50/10/1166/615406/Latitudinal-diversity-gradient-dynamics-during)
 1. [Zhang, S.H., Shen, S.Z. and Erwin, D.H., 2022b. Two cosmopolitanism events driven by different extreme paleoclimate regimes. Global and Planetary Change, 216.103899](https://www.sciencedirect.com/science/article/pii/S0921818122001667?via%3Dihub) 
 1. [Zhang, S.H., Fan, J.X., Morgan, C.A., Henderson, C.M. and Shen, S.Z., 2021. Quantifying the middle-late Cambrian trilobite diversity pattern in South China. Palaeogeography Palaeoclimatology Palaeoecology, 570.110361](https://www.sciencedirect.com/science/article/pii/S0031018221001462?dgcid=raven_sd_via_email)
 
-Foot prints (field works, meetings, workshops) 学术足迹
+Foot prints (field trips, meetings, workshops) 学术足迹
 ======
 ![Foot print (field trips, meetings, workshops)](/images/foot_print.png)
  
 
-More information 更多信息
+More information  更多信息
 ======
 
 Reports about me 相关报道
@@ -41,7 +42,7 @@ Reports about me 相关报道
 
 [石炭纪至三叠纪全球生物多样性纬向分布模式通过大数据研究取得新进展](https://es.nju.edu.cn/e5/07/c22449a582919/page.htm)
 
-popular science 科普文章
+popular science article  科普文章
 ------
 [科教融合系列：撰写生命史诗——古生物遇上大数据 （上篇）](https://mp.weixin.qq.com/s/CqXo_OKg6w4cZCSZlsHRAA)
 
