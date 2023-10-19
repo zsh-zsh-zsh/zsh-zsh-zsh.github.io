@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+<br>
 
 Hi, I am Zhang, Shuhan. I am a PhD student majoring paleontology and stratigraphy at Nanjing University. My works focused on macroevolution at temporal and spatial sclaes in deep time, quantitative stratigraphy and data analyses in paleobiology.
 
@@ -22,6 +23,7 @@ Hi~我是张书涵，南京大学地球科学与工程学院古生物学与地�
 
 左边栏或点击跳转我的[Google Scholar](https://scholar.google.com/citations?user=UG5Sx0UAAAAJ&hl=zh-CN)及[ResearchRate](https://www.researchgate.net/profile/Shuhan-Zhang-6)主页，下翻也许也有其他有意思的内容。有事欢迎邮件(shuhanzhang@smail.nju.edu.cn)联系~
 
+<br>
 
 Projects 项目
 ======
