@@ -21,7 +21,7 @@ Foot prints (field works, meetings, workshops) 学术足迹
 ======
 ![Foot print (field works, meetings, workshops)](/images/foot_print.png)
 
-Selected publications
+Selected publications 代表作
 ======
 1. [Latitudinal diversity gradient dynamics during Carboniferous to Triassic icehouse and greenhouse climates](https://pubs.geoscienceworld.org/gsa/geology/article/50/10/1166/615406/Latitudinal-diversity-gradient-dynamics-during)
 1. [Two cosmopolitanism events driven by different extreme paleoclimate regimes](https://www.sciencedirect.com/science/article/pii/S0921818122001667?via%3Dihub) 
