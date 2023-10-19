@@ -10,12 +10,16 @@ redirect_from:
 
 Hi, I am Zhang, Shuhan, a PhD student majoring paleontology and stratigraphy at Nanjing University. My works focused on macroevolution at temporal and spatial sclaes, quantitative stratigraphy and data analyses in paleobiology.
 
+张书涵，南京大学古生物学与地层学博士生。主要研究方向为深时宏观演化过程的时空特征，定量地层学和古生物中的数据分析方法。喜欢古诗词，历史及各类影视作品。
+
 New section
 ======
 This is a new academic personal websites. Still working on it.
 
 
-![Foot print (field works, meetings, workshops](/images/foot_print.png)
+Foot prints (field works, meetings, workshops) 学术足迹
+======
+![Foot print (field works, meetings, workshops)](/images/foot_print.png)
 
 Selected publications
 ======
@@ -26,7 +30,7 @@ Selected publications
 
  
 
-More information
+More information 更多信息
 ======
 
 Reports about me 相关报道
