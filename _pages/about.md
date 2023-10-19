@@ -8,9 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Zhang, Shuhan, a PhD student majoring paleontology and stratigraphy at Nanjing University. My works focused on macroevolution at temporal and spatial sclaes, quantitative stratigraphy and data analyses in paleobiology.
+Hi, I am Zhang, Shuhan, a PhD student majoring paleontology and stratigraphy at Nanjing University. My works focused on macroevolution at temporal and spatial sclaes in deep time, quantitative stratigraphy and data analyses in paleobiology.
 
-我是张书涵，南京大学古生物学与地层学博士生。主要研究方向为深时宏观演化过程的时空特征，定量地层学和古生物中的数据分析方法。喜欢古诗词，历史及各类影视作品。
+I got my bachelor degree at Nanjing University. I was a visiting student at the Department of Earth Sciences, University of Oxford. 
+
+Hi~我是张书涵，南京大学地球科学与工程学院古生物学与地层学博士生,沈树忠老师的学生。我的主要研究方向为深时宏观演化过程的时空特征，定量地层学和古生物学的数据分析方法，并已在相关领域发表多篇论文。目前主要在参与基金委重大项目——古生代-中生代重大转折期极端气候与生物响应的相关工作。曾获得本、硕、博国家奖学金，江苏省优秀毕业生（本科）等荣誉。
+
+喜欢古诗词，历史及各类影视作品。念旧，但看到新东西总想试一下。对装机及外设有一定兴趣，但没那么专业。讨厌机械重复劳动，喜欢野外，喜欢化石，喜欢数据分析，喜欢尝试不同领域及方法，喜欢数据可视化。
+
+左边栏点击跳转我的google scholar及research gate主页，下翻也许有其他有意思的内容。有事欢迎邮件联系~
 
 Projects 项目
 ======
