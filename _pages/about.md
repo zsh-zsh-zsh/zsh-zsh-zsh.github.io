@@ -12,14 +12,16 @@ Hi, I am Zhang, Shuhan, a PhD student majoring paleontology and stratigraphy at 
 
 我是张书涵，南京大学古生物学与地层学博士生。主要研究方向为深时宏观演化过程的时空特征，定量地层学和古生物中的数据分析方法。喜欢古诗词，历史及各类影视作品。
 
-Projects <br> 项目
+Projects 
+项目
 ======
 Coming soon
 
 
 
 
-Selected publications  代表作
+Selected publications  
+代表作
 ======
 1. [Zhang, S.H., Shen, S.Z. and Erwin, D.H., 2022a. Latitudinal diversity gradient dynamics during Carboniferous to Triassic icehouse and greenhouse climates. Geology, 50(10): 1166-1171.](https://pubs.geoscienceworld.org/gsa/geology/article/50/10/1166/615406/Latitudinal-diversity-gradient-dynamics-during)
 1. [Zhang, S.H., Shen, S.Z. and Erwin, D.H., 2022b. Two cosmopolitanism events driven by different extreme paleoclimate regimes. Global and Planetary Change, 216.103899](https://www.sciencedirect.com/science/article/pii/S0921818122001667?via%3Dihub) 
@@ -30,7 +32,8 @@ Foot prints (field trips, meetings, workshops) 学术足迹
 ![Foot print (field trips, meetings, workshops)](/images/foot_print.png)
  
 
-More information  更多信息
+More information  
+更多信息
 ======
 
 Reports about me 相关报道
