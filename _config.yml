@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "China"
-title                    : "Shuhan Zhang / Mr"
+title                    : "Shuhan Zhang"
 title_separator          : "-"
 name                     : &name "Shuhan Zhang"
 description              : &description "PhD student at Nanjing University"
