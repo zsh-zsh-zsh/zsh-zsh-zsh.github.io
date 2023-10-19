@@ -12,11 +12,14 @@ Hi, I am Zhang, Shuhan, a PhD student majoring paleontology and stratigraphy at 
 
 I got my bachelor degree at Nanjing University. I was a visiting student at the Department of Earth Sciences, University of Oxford. 
 
+Click (or from the left column) to reach my [Google Scholar](https://scholar.google.com/citations?user=UG5Sx0UAAAAJ&hl=zh-CN) and [ResearchRate](https://www.researchgate.net/profile/Shuhan-Zhang-6) pages. Welcome to contact me through e-mail: shuhanzhang@smail.nju.edu.cn
+
+
 Hi~我是张书涵，南京大学地球科学与工程学院古生物学与地层学博士生,沈树忠老师的学生。我的主要研究方向为深时宏观演化过程的时空特征，定量地层学和古生物学的数据分析方法，并已在相关领域发表多篇论文。目前主要在参与基金委重大项目——古生代-中生代重大转折期极端气候与生物响应的相关工作。曾获得本、硕、博国家奖学金，江苏省优秀毕业生（本科）等荣誉。
 
 喜欢古诗词，历史及各类影视作品。念旧，但看到新东西总想试一下。对装机及外设有一定兴趣，但没那么专业。讨厌机械重复劳动，喜欢野外，喜欢化石，喜欢数据分析，喜欢尝试不同领域及方法，喜欢数据可视化。
 
-左边栏或点击跳转我的[Google Scholar](https://scholar.google.com/citations?user=UG5Sx0UAAAAJ&hl=zh-CN)及[ResearchRate](https://www.researchgate.net/profile/Shuhan-Zhang-6)主页，下翻也许也有其他有意思的内容。有事欢迎邮件联系~
+左边栏或点击跳转我的[Google Scholar](https://scholar.google.com/citations?user=UG5Sx0UAAAAJ&hl=zh-CN)及[ResearchRate](https://www.researchgate.net/profile/Shuhan-Zhang-6)主页，下翻也许也有其他有意思的内容。有事欢迎邮件(shuhanzhang@smail.nju.edu.cn)联系~
 
 Projects 项目
 ======
