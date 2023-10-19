@@ -16,7 +16,7 @@ Hi~我是张书涵，南京大学地球科学与工程学院古生物学与地�
 
 喜欢古诗词，历史及各类影视作品。念旧，但看到新东西总想试一下。对装机及外设有一定兴趣，但没那么专业。讨厌机械重复劳动，喜欢野外，喜欢化石，喜欢数据分析，喜欢尝试不同领域及方法，喜欢数据可视化。
 
-左边栏点击跳转我的Google Scholar及ResearchRate主页，下翻也许也有其他有意思的内容。有事欢迎邮件联系~
+左边栏或点击跳转我的[Google Scholar](https://scholar.google.com/citations?user=UG5Sx0UAAAAJ&hl=zh-CN)及[ResearchRate](https://www.researchgate.net/profile/Shuhan-Zhang-6)主页，下翻也许也有其他有意思的内容。有事欢迎邮件联系~
 
 Projects 项目
 ======
