@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Zhang, Shuhan, a PhD student majoring Paleontology and stratigraphy at Nanjing University. My works focused on macroevolution at temporal and spatial sclaes, quantitative stratigraphy and data analyses in paleobiology.
+Hi, I am Zhang, Shuhan, a PhD student majoring paleontology and stratigraphy at Nanjing University. My works focused on macroevolution at temporal and spatial sclaes, quantitative stratigraphy and data analyses in paleobiology.
 
 A data-driven personal website
 ======
@@ -29,6 +29,13 @@ Site-wide configuration
 ------
 The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), 
 
-For more info
+More information
+======
+Reports about me 相关报道
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+[“走遍世界”，南大地质学长带你筑梦科研](https://baijiahao.baidu.com/s?id=1694387184169767697&wfr=spider&for=pc)
+The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+
+popular science 科普文章
+------
+[科教融合系列：撰写生命史诗——古生物遇上大数据（下篇）](https://ndsc.nju.edu.cn/5a/60/c11250a481888/page.htm)
