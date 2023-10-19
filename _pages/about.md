@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Shuhan Zhang's academic personal websites <br> 张书涵的学术主页"
+title: "Shuhan Zhang's academic personal websites <br> 张书涵的个人学术主页"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Zhang, Shuhan, a PhD student majoring paleontology and stratigraphy at Nanjing University. My works focused on macroevolution at temporal and spatial sclaes in deep time, quantitative stratigraphy and data analyses in paleobiology.
+Hi, I am Zhang, Shuhan. I am a PhD student majoring paleontology and stratigraphy at Nanjing University. My works focused on macroevolution at temporal and spatial sclaes in deep time, quantitative stratigraphy and data analyses in paleobiology.
 
 I got my bachelor degree at Nanjing University. I was a visiting student at the Department of Earth Sciences, University of Oxford. 
 
