@@ -38,7 +38,7 @@ Selected publications 代表作
 
 Foot prints (field trips, meetings, workshops) 学术足迹
 ======
-![Foot print (field trips, meetings, workshops)](/images/foot_print.png)
+![Foot print (field trips, meetings, workshops)](/images/map230826.html) #(/images/foot_print.png)
  
 
 More information 更多信息
