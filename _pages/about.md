@@ -39,8 +39,7 @@ Selected publications 代表作
 Foot prints (field trips, meetings, workshops) 学术足迹
 ======
 
-![Foot print (field trips, meetings, workshops)](/images/foot_print.png)
-(https://rawcdn.githack.com/zsh-zsh-zsh/zsh-zsh-zsh.github.io/98bec91294b07530ce00444cdbd74859e6e4fc21/images/foot%20prints.html) 
+[![Foot print (field trips, meetings, workshops)](/images/foot_print.png)](https://rawcdn.githack.com/zsh-zsh-zsh/zsh-zsh-zsh.github.io/98bec91294b07530ce00444cdbd74859e6e4fc21/images/foot%20prints.html) 
  
 
 More information 更多信息
