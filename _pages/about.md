@@ -29,8 +29,7 @@ Recent exciting news 近期有趣事项
 ======
 Travel in Scotland!
 
-![news](/images/news.png)
-
+![news(pic)](/images/news.png)
 
 <br>
 
