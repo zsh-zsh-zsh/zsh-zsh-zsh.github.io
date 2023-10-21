@@ -44,11 +44,11 @@ Selected publications 代表作
 1. [Zhang, S.H., Shen, S.Z. and Erwin, D.H., 2022b. Two cosmopolitanism events driven by different extreme paleoclimate regimes. Global and Planetary Change, 216.103899.](https://www.sciencedirect.com/science/article/pii/S0921818122001667?via%3Dihub) 
 1. [Zhang, S.H., Fan, J.X., Morgan, C.A., Henderson, C.M. and Shen, S.Z., 2021. Quantifying the middle-late Cambrian trilobite diversity pattern in South China. Palaeogeography Palaeoclimatology Palaeoecology, 570.110361.](https://www.sciencedirect.com/science/article/pii/S0031018221001462?dgcid=raven_sd_via_email)
 
-Foot prints (field trips, meetings, workshops) 学术足迹
+Foot prints (field trips, meetings, workshops etc.) 学术足迹
 ======
 
-[![Foot print (field trips, meetings, workshops)](/images/foot_print.png)](https://rawcdn.githack.com/zsh-zsh-zsh/zsh-zsh-zsh.github.io/98bec91294b07530ce00444cdbd74859e6e4fc21/images/foot%20prints.html) 
-(click the picture to see the interactive map)
+[![Foot print (field trips, meetings, workshops )](/images/foot_print.png)](https://rawcdn.githack.com/zsh-zsh-zsh/zsh-zsh-zsh.github.io/98bec91294b07530ce00444cdbd74859e6e4fc21/images/foot%20prints.html) 
+(click the picture to see the interactive map 点击查看互动地图)
  
 
 More information 更多信息
@@ -76,3 +76,10 @@ popular science article  科普文章
 [【科教融合系列】定量地层学—细翻记载沧海桑田的地史残卷](https://mp.weixin.qq.com/s/XrKHfoTBVZ3vrMUaHiZh_g)
 
 [石燕拂云晴亦雨：一场两亿年的兴亡回望](https://mp.weixin.qq.com/s/zAiCRznNgdR4Z2U8X0F6Iw)
+
+<br>
+
+A little tail 写在最后
+------
+Geology is the Study or pressure and time. That’s all it takes, really. Pressure and time.
+一万年来谁著史，三千里外觅封侯。
