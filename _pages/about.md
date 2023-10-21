@@ -25,13 +25,6 @@ Hi~我是张书涵，南京大学地球科学与工程学院古生物学与地�
 
 <br>
 
-Recent exciting news 近期有趣事项
-======
-Travel in Scotland!
-
-![news(pic)](/images/news.png)
-
-<br>
 
 Projects 项目
 ======
@@ -53,7 +46,14 @@ Foot prints (field trips, meetings, workshops etc.) 学术足迹
 
 More information 更多信息
 ======
-Some related links.
+
+<br>
+
+Recent exciting news 近期有趣事项
+------
+Travel in Scotland!
+
+![news(pic)](/images/news.png)
 
 
 Reports about me 相关报道
