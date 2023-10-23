@@ -52,7 +52,7 @@ Recent exciting news 近期有趣事项
 ------
 Travel in Scotland!
 
-![news(pic)](/images/news.png)
+![news(pic)](/images/news/IMG_20230922_144307-01.jpeg)
 
 
 Reports about me 相关报道
