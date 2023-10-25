@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+  You can also find my articles on <u><a href="{{https://scholar.google.com/citations?user=UG5Sx0UAAAAJ&hl=zh-CN}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
 1. [**Zhang, S.H.**, Shen, S.Z. and Erwin, D.H., 2022a. Latitudinal diversity gradient dynamics during Carboniferous to Triassic icehouse and greenhouse climates. Geology, 50(10): 1166-1171.](https://pubs.geoscienceworld.org/gsa/geology/article/50/10/1166/615406/Latitudinal-diversity-gradient-dynamics-during)
