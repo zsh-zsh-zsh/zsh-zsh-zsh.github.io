@@ -32,7 +32,7 @@ Popular science articles  科普文章
 <br>
 
 Recent exciting news 近期有趣事项
-------
+======
 Travel in Scotland!
 
 ![news(pic)](/images/news/IMG_20230922_144307-01.jpeg)
