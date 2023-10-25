@@ -11,7 +11,7 @@ author_profile: true
 
 
 Paleobiogeography and paleoecology
------
+------
 1. [**Zhang, S.H.***, Shen, S.Z. and Erwin, D.H., 2022a. Latitudinal diversity gradient dynamics during Carboniferous to Triassic icehouse and greenhouse climates. Geology, 50(10): 1166-1171.](https://pubs.geoscienceworld.org/gsa/geology/article/50/10/1166/615406/Latitudinal-diversity-gradient-dynamics-during)
   (石炭纪至三叠纪海洋无脊椎动物纬向多样性梯度)
    
@@ -21,7 +21,7 @@ Paleobiogeography and paleoecology
 <br>
 
 Quantitative stratigraphy and geological timeline
------
+------
 1. [**Zhang, S.H.***, Fan, J.X., Morgan, C.A., Henderson, C.M. and Shen, S.Z., 2021. Quantifying the middle-late Cambrian trilobite diversity pattern in South China. Palaeogeography Palaeoclimatology Palaeoecology, 570.110361.](https://www.sciencedirect.com/science/article/pii/S0031018221001462?dgcid=raven_sd_via_email)
 (中晚寒武华南三叶虫多样性)
 
@@ -33,7 +33,7 @@ Quantitative stratigraphy and geological timeline
 <br>
 
 Traditional stratigraphy
------   
+------  
 
 <!--  {% include base_path %} -->
 
