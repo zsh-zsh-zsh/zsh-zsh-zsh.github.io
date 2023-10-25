@@ -18,6 +18,7 @@ Biogeography
 Quantitative stratigraphy
 -----
 1. [**Zhang, S.H.***, Fan, J.X., Morgan, C.A., Henderson, C.M. and Shen, S.Z., 2021. Quantifying the middle-late Cambrian trilobite diversity pattern in South China. Palaeogeography Palaeoclimatology Palaeoecology, 570.110361.](https://www.sciencedirect.com/science/article/pii/S0031018221001462?dgcid=raven_sd_via_email)
+2. [Deng, Y.Y., Fan, J.X., **Zhang, S.H.**, Fang, X., Chen, Z.Y., Shi, Y.K., Wang, H.W., Wang, X.B., Yang, J., Hou, X.D., Wang, Y., Zhang, Y.D., Chen, Q., Yang, A.H., Fan, R., Dong, S.C., Xu, H.Q. and Shen, S.Z., 2021. Timing and patterns of the Great Ordovician Biodiversification Event and Late Ordovician mass extinction: Perspectives from South China. Earth-Science Reviews, 220..](https://www.sciencedirect.com/science/article/abs/pii/S0012825221002440)
 
 Traditional stratigraphy
 -----   
