@@ -35,7 +35,7 @@ Coming soon~
 
 Selected publications 代表作
 ======
-These are several my most important works. More detailed publication lists could be found in the Publications section.
+These are several my most important works. More detailed publication lists could be found in the **Publications** section from top.
 
 1. [**Zhang, S.H.**, Shen, S.Z. and Erwin, D.H., 2022a. Latitudinal diversity gradient dynamics during Carboniferous to Triassic icehouse and greenhouse climates. Geology, 50(10): 1166-1171.](https://pubs.geoscienceworld.org/gsa/geology/article/50/10/1166/615406/Latitudinal-diversity-gradient-dynamics-during)
 1. [**Zhang, S.H.**, Shen, S.Z. and Erwin, D.H., 2022b. Two cosmopolitanism events driven by different extreme paleoclimate regimes. Global and Planetary Change, 216.103899.](https://www.sciencedirect.com/science/article/pii/S0921818122001667?via%3Dihub) 
@@ -51,7 +51,7 @@ Foot prints (field trips, meetings, workshops etc.) 学术足迹
 
 More information 更多信息
 ======
-
+Detailed information could be found in the **Other** section from top.
 
 Selected reports  相关报道
 ------
