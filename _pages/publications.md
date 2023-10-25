@@ -35,7 +35,7 @@ Quantitative stratigraphy and geological timeline
 
 Traditional stratigraphy
 ------  
-1. [Shen, S.Z., Yuan, D.X., Zhang, Y.C., Henderson, C.M., Zheng, Q.F., Zhang, H., Zhang, M., Dai, X., Xu, H.P., Wang, W.Q., Li, Q., Wang, Y., Wang, X.D., Ramezani, J., Erwin, D.H., Angiolini, L., Zhang, F.F., Hou, Z.S., Zhang, X.Y., Zhang, **S.H.**, Pan, Y.X., Stenphenson, M. and Mei, S.L., 2023. Redefinition of the Global Stratotype Section and Point (GSSP) and new Standard Auxiliary Boundary Stratotype (SABS) for the base of Wuchiapingian Stage (Lopingian Series, Permian) in South China. Permophiles, 74: 9-37.](https://permian.stratigraphy.org/files/permophiles/Permophiles%2074.pdf)
+1. [Shen, S.Z., Yuan, D.X., Zhang, Y.C., Henderson, C.M., Zheng, Q.F., Zhang, H., Zhang, M., Dai, X., Xu, H.P., Wang, W.Q., Li, Q., Wang, Y., Wang, X.D., Ramezani, J., Erwin, D.H., Angiolini, L., Zhang, F.F., Hou, Z.S., Zhang, X.Y., **Zhang, S.H.**, Pan, Y.X., Stenphenson, M. and Mei, S.L., 2023. Redefinition of the Global Stratotype Section and Point (GSSP) and new Standard Auxiliary Boundary Stratotype (SABS) for the base of Wuchiapingian Stage (Lopingian Series, Permian) in South China. Permophiles, 74: 9-37.](https://permian.stratigraphy.org/files/permophiles/Permophiles%2074.pdf)
    
 <br>
 
