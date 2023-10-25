@@ -53,14 +53,14 @@ More information 更多信息
 ======
 Detailed information could be found in the **Other** section from top.
 
-Selected reports  相关报道
+Selected reports  报道
 ------
 [“走遍世界”，南大地质学长带你筑梦科研](https://baijiahao.baidu.com/s?id=1694387184169767697&wfr=spider&for=pc)
 
 
 
 
-Selected popular science articles  科普文章
+Selected popular science articles  科普
 ------
 
 [【科教融合系列】定量地层学—细翻记载沧海桑田的地史残卷](https://mp.weixin.qq.com/s/XrKHfoTBVZ3vrMUaHiZh_g)
