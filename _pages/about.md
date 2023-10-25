@@ -20,7 +20,7 @@ I got my bachelor degree at Nanjing University. I am a visiting student at the D
 Click (or from the left column) to reach my [Google Scholar](https://scholar.google.com/citations?user=UG5Sx0UAAAAJ&hl=zh-CN) and [ResearchRate](https://www.researchgate.net/profile/Shuhan-Zhang-6) pages. Welcome to contact me through e-mail (shuhanzhang@smail.nju.edu.cn).
 
 
-Hi~我是张书涵，南京大学地球科学与工程学院古生物学与地层学博士生,导师为沈树忠院士。我的主要研究方向为深时宏观演化过程的时空特征，定量地层学和古生物学的数据分析方法，并已在相关领域发表多篇论文。目前主要在参与基金委重大项目——古生代-中生代重大转折期极端气候与生物响应的相关工作。曾获得本、硕、博国家奖学金，江苏省优秀毕业生等荣誉。
+Hi~我是**张书涵**，南京大学地球科学与工程学院古生物学与地层学博士生,导师为沈树忠院士。我的主要研究方向为深时宏观演化过程的时空特征，定量地层学和古生物学的数据分析方法，并已在相关领域发表多篇论文。目前主要在参与基金委重大项目——古生代-中生代重大转折期极端气候与生物响应的相关工作。曾获得本、硕、博国家奖学金，江苏省优秀毕业生等荣誉。
 
 喜欢古诗词，历史及各类影视作品，偶尔搞点文学创作。对装机、外设以及平面设计也有兴趣。念旧，但看到新东西总想试一下。喜欢野外，喜欢化石，喜欢数据分析及可视化，喜欢尝试不同领域及方法。
 
@@ -35,7 +35,7 @@ Coming soon~
 
 Selected publications 代表作
 ======
-These are several my most important works. More detailed publication lists could be found in the **Publications** section from top.
+These are several my most important works. More publication lists could be found in the **Publications** section from the top.
 
 1. [**Zhang, S.H.**, Shen, S.Z. and Erwin, D.H., 2022a. Latitudinal diversity gradient dynamics during Carboniferous to Triassic icehouse and greenhouse climates. Geology, 50(10): 1166-1171.](https://pubs.geoscienceworld.org/gsa/geology/article/50/10/1166/615406/Latitudinal-diversity-gradient-dynamics-during)
 1. [**Zhang, S.H.**, Shen, S.Z. and Erwin, D.H., 2022b. Two cosmopolitanism events driven by different extreme paleoclimate regimes. Global and Planetary Change, 216.103899.](https://www.sciencedirect.com/science/article/pii/S0921818122001667?via%3Dihub) 
@@ -49,15 +49,13 @@ Foot prints (field trips, meetings, workshops etc.) 学术足迹
  
 <br>
 
-More information 更多信息
+Other 更多
 ======
-Detailed information could be found in the **Other** section from top.
+Detailed information could be found in the **Other** section from the top.
 
 Selected reports  报道
 ------
 [“走遍世界”，南大地质学长带你筑梦科研](https://baijiahao.baidu.com/s?id=1694387184169767697&wfr=spider&for=pc)
-
-
 
 
 Selected popular science articles  科普
