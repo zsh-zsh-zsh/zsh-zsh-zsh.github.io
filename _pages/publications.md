@@ -13,17 +13,18 @@ author_profile: true
 Paleobiogeography and paleoecology
 -----
 1. [**Zhang, S.H.***, Shen, S.Z. and Erwin, D.H., 2022a. Latitudinal diversity gradient dynamics during Carboniferous to Triassic icehouse and greenhouse climates. Geology, 50(10): 1166-1171.](https://pubs.geoscienceworld.org/gsa/geology/article/50/10/1166/615406/Latitudinal-diversity-gradient-dynamics-during)
-  石炭纪至三叠纪海洋无脊椎动物纬向多样性梯度
+  (石炭纪至三叠纪海洋无脊椎动物纬向多样性梯度)
    
 1. [**Zhang, S.H.***, Shen, S.Z. and Erwin, D.H., 2022b. Two cosmopolitanism events driven by different extreme paleoclimate regimes. Global and Planetary Change, 216.103899.](https://www.sciencedirect.com/science/article/pii/S0921818122001667?via%3Dihub)
-  石炭纪至三叠纪海洋无脊椎动物生物地理均一化
+  (石炭纪至三叠纪海洋无脊椎动物生物地理均一化)
 
 Quantitative stratigraphy and geological timeline
 -----
 1. [**Zhang, S.H.***, Fan, J.X., Morgan, C.A., Henderson, C.M. and Shen, S.Z., 2021. Quantifying the middle-late Cambrian trilobite diversity pattern in South China. Palaeogeography Palaeoclimatology Palaeoecology, 570.110361.](https://www.sciencedirect.com/science/article/pii/S0031018221001462?dgcid=raven_sd_via_email)
-中晚寒武华南三叶虫多样性
+(中晚寒武华南三叶虫多样性)
 
- 
+<br>
+
 1. [Deng, Y.Y., Fan, J.X., **Zhang, S.H.**, Fang, X., Chen, Z.Y., Shi, Y.K., Wang, H.W., Wang, X.B., Yang, J., Hou, X.D., Wang, Y., Zhang, Y.D., Chen, Q., Yang, A.H., Fan, R., Dong, S.C., Xu, H.Q. and Shen, S.Z., 2021. Timing and patterns of the Great Ordovician Biodiversification Event and Late Ordovician mass extinction: Perspectives from South China. Earth-Science Reviews, 220.](https://www.sciencedirect.com/science/article/abs/pii/S0012825221002440)
 2. [Shen, S., Fan, J., Wang, X., Zhang, F., Shi, Y. and **Zhang, S.**, 2022. How to Build a High-Resolution Digital Geological Timeline? Journal of Earth Science, 33(6): 1629-1632.](https://link.springer.com/article/10.1007/s12583-022-1315-z)
 
