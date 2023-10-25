@@ -17,7 +17,7 @@ tags:
 
 <br>
 
-Hi, my name is Zhang, Shuhan. I am a PhD student majoring paleontology and stratigraphy at Nanjing University. My works focused on macroevolution at temporal and spatial sclaes in deep time, quantitative stratigraphy and data analyses in paleobiology.
+Hi, my name is **Zhang, Shuhan**. I am a PhD student majoring paleontology and stratigraphy at Nanjing University. My works focused on macroevolution at temporal and spatial sclaes in deep time, quantitative stratigraphy and data analyses in paleobiology.
 
 I got my bachelor degree at Nanjing University. I am a visiting student at the Department of Earth Sciences, University of Oxford. 
 
