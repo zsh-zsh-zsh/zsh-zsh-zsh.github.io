@@ -27,8 +27,8 @@ Quantitative stratigraphy and geological timeline
 
 <br>
 
-1. [Deng, Y.Y., Fan, J.X., **Zhang, S.H.**, Fang, X., Chen, Z.Y., Shi, Y.K., Wang, H.W., Wang, X.B., Yang, J., Hou, X.D., Wang, Y., Zhang, Y.D., Chen, Q., Yang, A.H., Fan, R., Dong, S.C., Xu, H.Q. and Shen, S.Z., 2021. Timing and patterns of the Great Ordovician Biodiversification Event and Late Ordovician mass extinction: Perspectives from South China. Earth-Science Reviews, 220. 103743.](https://www.sciencedirect.com/science/article/abs/pii/S0012825221002440)
-2. [Shen, S.Z., Fan, J.X., Wang, X.D., Zhang, F.F., Shi, Y.K. and **Zhang, S.H.**, 2022. How to Build a High-Resolution Digital Geological Timeline? Journal of Earth Science, 33(6): 1629-1632.](https://link.springer.com/article/10.1007/s12583-022-1315-z)
+2. [Deng, Y.Y., Fan, J.X., **Zhang, S.H.**, Fang, X., Chen, Z.Y., Shi, Y.K., Wang, H.W., Wang, X.B., Yang, J., Hou, X.D., Wang, Y., Zhang, Y.D., Chen, Q., Yang, A.H., Fan, R., Dong, S.C., Xu, H.Q. and Shen, S.Z., 2021. Timing and patterns of the Great Ordovician Biodiversification Event and Late Ordovician mass extinction: Perspectives from South China. Earth-Science Reviews, 220. 103743.](https://www.sciencedirect.com/science/article/abs/pii/S0012825221002440)
+3. [Shen, S.Z., Fan, J.X., Wang, X.D., Zhang, F.F., Shi, Y.K. and **Zhang, S.H.**, 2022. How to Build a High-Resolution Digital Geological Timeline? Journal of Earth Science, 33(6): 1629-1632.](https://link.springer.com/article/10.1007/s12583-022-1315-z)
 
 <br>
 
