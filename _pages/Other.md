@@ -30,3 +30,17 @@ Popular science articles  科普文章
 [石燕拂云晴亦雨：一场两亿年的兴亡回望](https://mp.weixin.qq.com/s/zAiCRznNgdR4Z2U8X0F6Iw)
 
 <br>
+
+Recent exciting news 近期有趣事项
+------
+Travel in Scotland!
+
+![news(pic)](/images/news/IMG_20230922_144307-01.jpeg)
+
+<br>
+
+A little tail 写在最后
+------
+Geology is the Study of pressure and time. That’s all it takes, really. Pressure and time.
+
+一万年来谁著史，三千里外觅封侯。
