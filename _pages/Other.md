@@ -48,7 +48,7 @@ Meeting reports in Tibet, 2023
 
 Field trips in Xinjiang, 2021
 
-![p221](images/foot_print/mmexport1659891604103.jpg)
+![p221](/images/foot_print/mmexport1659891604103.jpg)
 
 Field trips at the penglaitan section, the GSSP of the Lopingian, 2021
 
