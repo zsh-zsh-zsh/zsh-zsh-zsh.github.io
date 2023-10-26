@@ -39,7 +39,7 @@ PAL ASS meeting in Cambridge, 2023
 
 Visiting student at Unviersity of Oxford, 2023
 
-![pic](images/foot_print/mmexport1696138911349.jpg)
+![pic](/images/foot_print/mmexport1696138911349.jpg)
 
 Meeting reports in Tibet, 2023
 
