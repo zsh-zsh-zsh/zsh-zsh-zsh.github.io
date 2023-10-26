@@ -59,7 +59,7 @@ Meeting reports in Yunnan, 2020
 ![Y221](/images/foot_print/mmexport1605261735260-01.jpeg)
 
 
-Lead introduction of the Meishan section, the GSSP of the Permian, 2019
+Lead introduction of the Meishan section, the GSSP of the Triassic, 2019
 
 ![C191](/images/foot_print/4b6434200dc307db.jpg)
 
