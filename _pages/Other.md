@@ -34,10 +34,6 @@ Popular science articles  科普文章
 Events photos 活动照片
 ======
 
-Trips in Scotland, 2023
-
-![news(pic)](/images/news/IMG_20230922_144307-01.jpeg)
-
 PAL ASS meeting in Cambridge, 2023
 ![C231](/images/foot_print/IMG_20230913_131922-01.jpeg)
 
