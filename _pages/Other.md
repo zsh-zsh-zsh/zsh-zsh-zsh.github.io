@@ -31,7 +31,7 @@ Popular science articles  科普文章
 
 <br>
 
-Events photos 活动照片
+Event photos 活动照片
 ======
 
 PAL ASS meeting in Cambridge, 2023
