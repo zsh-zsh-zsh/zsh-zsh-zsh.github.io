@@ -41,17 +41,23 @@ Trips in Scotland, 2023
 PAL ASS meeting in Cambridge, 2023
 ![C231](/images/foot_print/IMG_20230913_131922-01.jpeg)
 
-Meeting reports in Tibet, 2022
+Meeting reports in Tibet, 2023
 
 ![T221](/images/foot_print/IMG_20230517_080729.jpg)
 ![T222](/images/foot_print/IMG_20230519_184622.jpg)
 
-Meeting reports in Yunnan, 2022
+Field trips in Xinjiang, 2021
+
+![p221](images/foot_print/mmexport1659891604103.jpg)
+
+Field trips at the penglaitan section, the GSSP of the Lopingian, 2021
+
+![p221](/images/foot_print/mmexport1640774919675.jpg)
+
+Meeting reports in Yunnan, 2020
 
 ![Y221](/images/foot_print/mmexport1605261735260-01.jpeg)
 
-Field trips at the penglaitan section, the GSSP of the Lopingian, Greece, 2019
-![p221](/images/foot_print/mmexport1640774919675.jpg)
 
 Lead introduction of the Meishan section, the GSSP of the Permian, 2019
 
@@ -70,7 +76,7 @@ Field trips in New Zealand, 2018
 ![N181](/images/foot_print/-2f5e19329e695a45-01.jpeg)
 ![N182](/images/foot_print/IMG_20181226_154242.jpg)
 
-Field trips at Dead Sea, 2018
+Field trips at the Dead Sea, 2018
 
 ![D181](/images/foot_print/mmexport1534250798410-01.jpeg)
 
