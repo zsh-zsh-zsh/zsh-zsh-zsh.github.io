@@ -41,6 +41,10 @@ Trips in Scotland, 2023
 PAL ASS meeting in Cambridge, 2023
 ![C231](/images/foot_print/IMG_20230913_131922-01.jpeg)
 
+Visiting student at Unviersity of Oxford, 2023
+
+![pic](images/foot_print/mmexport1696138911349.jpg)
+
 Meeting reports in Tibet, 2023
 
 ![T221](/images/foot_print/IMG_20230517_080729.jpg)
@@ -53,6 +57,10 @@ Field trips in Xinjiang, 2021
 Field trips at the penglaitan section, the GSSP of the Lopingian, 2021
 
 ![p221](/images/foot_print/mmexport1640774919675.jpg)
+
+Defense of bachelor's thesis at Nanjing University, 2021
+
+![pic](/images/foot_print/mmexport1623303381367.jpg)
 
 Meeting reports in Yunnan, 2020
 
