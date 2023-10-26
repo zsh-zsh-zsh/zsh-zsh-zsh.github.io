@@ -39,43 +39,44 @@ Trips in Scotland, 2023
 ![news(pic)](/images/news/IMG_20230922_144307-01.jpeg)
 
 PAL ASS meeting in Cambridge, 2023
-![C231](images/foot_print/IMG_20230913_131922-01.jpeg)
+![C231](/images/foot_print/IMG_20230913_131922-01.jpeg)
 
 Meeting reports in Tibet, 2022
 
-![T221](images/foot_print/IMG_20230517_080729.jpg)
-![T222](images/foot_print/IMG_20230519_184622.jpg)
+![T221](/images/foot_print/IMG_20230517_080729.jpg)
+![T222](/images/foot_print/IMG_20230519_184622.jpg)
 
 Meeting reports in Yunnan, 2022
 
-![Y221](images/foot_print/mmexport1605261735260-01.jpeg)
+![Y221](/images/foot_print/mmexport1605261735260-01.jpeg)
 
 Field trips at the penglaitan section, the GSSP of the Lopingian, Greece, 2019
-![p221](images/foot_print/mmexport1640774919675.jpg)
+![p221](/images/foot_print/mmexport1640774919675.jpg)
 
 Lead introduction of the Meishan section, the GSSP of the Permian, 2019
 
-![C191](images/foot_print/4b6434200dc307db.jpg)
+![C191](/images/foot_print/4b6434200dc307db.jpg)
 
 Field trips at Lesvos island, Greece, 2019
 
-![L191](images/foot_print/IMG_20191003_110735.jpg)
+![L191](/images/foot_print/IMG_20191003_110735.jpg)
 
 Field trips at Hezheng, 2019
 
-![H191](images/foot_print/IMG_20190816_094926.jpg)
+![H191](/images/foot_print/IMG_20190816_094926.jpg)
 
 Field trips in New Zealand, 2018
 
-![N181](images/foot_print/-2f5e19329e695a45-01.jpeg)
-![N182](images/foot_print/IMG_20181226_154242.jpg)
+![N181](/images/foot_print/-2f5e19329e695a45-01.jpeg)
+![N182](/images/foot_print/IMG_20181226_154242.jpg)
 
 Field trips at Dead Sea, 2018
 
-![D181](images/foot_print/mmexport1534250798410-01.jpeg)
+![D181](/images/foot_print/mmexport1534250798410-01.jpeg)
 
 Studing at Nanjing University, 2017
-![N18_1](images/foot_print/IMG_20190326_135117.jpg)
+
+![N18_1](/images/foot_print/IMG_20190326_135117.jpg)
 
 <br>
 
