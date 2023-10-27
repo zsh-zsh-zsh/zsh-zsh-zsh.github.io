@@ -5,7 +5,7 @@ permalink: /projects/
 author_profile: true
 ---
 
-Responsible projectS
+Responsible projects
 ======
 coming soon~
 
