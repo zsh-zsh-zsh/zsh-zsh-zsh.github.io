@@ -28,9 +28,9 @@ Hi~我是**张书涵**，南京大学地球科学与工程学院古生物学与�
 
 <br>
 
-Projects 项目
+Selected projects 代表项目
 ======
-These are several my most important projects. More project lists could be found in the **Projects** section from the top.
+More project could be found in the **Projects** section from the top.
 
 1. Extreme Climates and biological responses during the Paleozoic-Mesozoic transition 古生代-中生代重大转折期极端气候与生物响应, 2023.1-2027.12 (参与工作)
    - Changing patterns of the high-resolution global biodiversity fromCarboniferous to Triassic 石炭纪—三叠纪高分辨率全球生物多样性演变, 2023.1-2027.12 (参与工作)
@@ -40,7 +40,7 @@ These are several my most important projects. More project lists could be found 
 
 Selected publications 代表作
 ======
-These are several my most important works. More publication lists could be found in the **Publications** section from the top.
+More publication could be found in the **Publications** section from the top.
 
 1. [**Zhang, S.H.\***, Shen, S.Z. and Erwin, D.H., 2022a. Latitudinal diversity gradient dynamics during Carboniferous to Triassic icehouse and greenhouse climates. Geology, 50(10): 1166-1171.](https://pubs.geoscienceworld.org/gsa/geology/article/50/10/1166/615406/Latitudinal-diversity-gradient-dynamics-during)
 1. [**Zhang, S.H.\***, Shen, S.Z. and Erwin, D.H., 2022b. Two cosmopolitanism events driven by different extreme paleoclimate regimes. Global and Planetary Change, 216.103899.](https://www.sciencedirect.com/science/article/pii/S0921818122001667?via%3Dihub) 
@@ -56,7 +56,7 @@ Academic foot prints 学术足迹
 
 Other 更多
 ======
-Detailed information could be found in the **Other** section from the top.
+More information could be found in the **Other** section from the top.
 
 Selected reports  报道
 ------
