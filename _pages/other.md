@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Other"
-permalink: /Other/
+permalink: /other/
 author_profile: true
 ---
 
