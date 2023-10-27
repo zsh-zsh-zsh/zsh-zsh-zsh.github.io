@@ -20,9 +20,9 @@ I got my bachelor degree at Nanjing University. I am a visiting student at the D
 Welcome to visit my [Google Scholar](https://scholar.google.com/citations?user=UG5Sx0UAAAAJ&hl=zh-CN) and [ResearchRate](https://www.researchgate.net/profile/Shuhan-Zhang-6) pages and contact me through e-mail (shuhanzhang@smail.nju.edu.cn).
 
 
-Hi~我是**张书涵**，南京大学地球科学与工程学院古生物学与地层学博士生,导师为沈树忠院士。我的主要研究方向为深时宏观演化过程的时空特征，定量地层学和古生物学的数据分析方法，并已在相关领域发表多篇论文。目前主要在参与基金委重大项目——古生代-中生代重大转折期极端气候与生物响应的相关工作。曾获得本、硕、博国家奖学金，江苏省优秀毕业生等荣誉。
+Hi~我是**张书涵**，南京大学地球科学与工程学院古生物学与地层学博士生,导师为沈树忠院士。我的主要研究方向为深时宏观演化过程的时空特征，定量地层学和古生物学的数据分析方法。曾获得本、硕、博国家奖学金，江苏省优秀毕业生等荣誉。
 
-喜欢古诗词，历史及各类影视作品，偶尔搞点文学创作。对装机、外设以及平面设计也有兴趣。念旧，但看到新东西总想试一下。喜欢野外，喜欢化石，喜欢数据分析及可视化，喜欢尝试不同领域及方法。
+喜欢古诗词，历史及各类影视作品，偶尔搞点文学创作。对装机、外设以及平面设计也有兴趣。喜欢野外，喜欢化石，喜欢数据分析及可视化，喜欢尝试不同领域及方法。
 
 欢迎访问我的[Google Scholar](https://scholar.google.com/citations?user=UG5Sx0UAAAAJ&hl=zh-CN)及[ResearchRate](https://www.researchgate.net/profile/Shuhan-Zhang-6)主页。有事欢迎邮件(shuhanzhang@smail.nju.edu.cn)联系~
 
@@ -30,10 +30,10 @@ Hi~我是**张书涵**，南京大学地球科学与工程学院古生物学与�
 
 Research Interests 研究方向
 ======
-1. 深时古生物地理及古生态
-2. 高分辨率地质时间标尺下的生物演化事件
-3. 定量地层学
-4. 古生物数据分析方法
+1. Paleobiogeography and paleoecology 深时古生物地理及古生态
+2. Macroevolution under high temporal resolution 高分辨率地质时间标尺下的宏观演化事件
+3. Quantitative stratigraphy 定量地层学
+4. Data analysis methods in paleobiology 古生物数据分析方法
 
 Selected projects 代表项目
 ======
