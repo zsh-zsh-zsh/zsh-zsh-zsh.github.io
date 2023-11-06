@@ -10,8 +10,6 @@ redirect_from:
     
 ---
 
-[a](https://rawcdn.githack.com/zsh-zsh-zsh/zsh-zsh-zsh.github.io/images/foot_print/foot%20prints.html) 
-
 <br>
 
 Hi, my name is **Zhang, Shuhan**. I am a PhD student majoring paleontology and stratigraphy at Nanjing University. My works focused on macroevolution at temporal and spatial sclaes in deep time, quantitative stratigraphy and data analyses in paleobiology.
