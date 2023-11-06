@@ -10,7 +10,7 @@ redirect_from:
     
 ---
 
-[a](https://rawcdn.githack.com/zsh-zsh-zsh/zsh-zsh-zsh.github.io/7af58a7de13629d9e04d4fc7b4188207d61c7708/images/foot_print/foot%20prints.html) 
+[a](https://rawcdn.githack.com/zsh-zsh-zsh/zsh-zsh-zsh.github.io/images/foot_print/foot%20prints.html) 
 
 <br>
 
