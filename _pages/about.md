@@ -59,6 +59,7 @@ Academic foot prints 学术足迹
 [![Foot print (field trips, meetings, workshops )](/images/foot_print/foot_print.png)](https://rawcdn.githack.com/zsh-zsh-zsh/zsh-zsh-zsh.github.io/7af58a7de13629d9e04d4fc7b4188207d61c7708/images/foot_print/foot%20prints.html) 
 (click the picture to see the interactive map 点击图片查看互动地图)
 
+Another way to display for fun:
 ![another way](/images/foot_print/acadaemic_footprint_animation.gif)
 
 <br>
