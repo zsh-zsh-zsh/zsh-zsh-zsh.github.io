@@ -25,7 +25,7 @@ Hi~我是**张书涵**，南京大学地球科学与工程学院古生物学与�
 
 欢迎访问我的[Google Scholar](https://scholar.google.com/citations?user=UG5Sx0UAAAAJ&hl=zh-CN)及[ResearchRate](https://www.researchgate.net/profile/Shuhan-Zhang-6)主页。有事欢迎邮件(shuhanzhang@smail.nju.edu.cn)联系~
 
-[![posts](/images/important/post.png)](https://zsh-zsh-zsh.github.io/other/)
+[![post](/images/important/post.png)](https://zsh-zsh-zsh.github.io/other/)
 
 <br>
 
