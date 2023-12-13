@@ -1,7 +1,7 @@
 ---
 
 title: '建立全球统一的高精度地质时间轴'
-permalink: /timeline2023/
+permalink: /projects/timeline2023/
 author_profile: false
  
 ---
