@@ -31,7 +31,7 @@ Popular science articles  科普文章
 
 <br>
 
-Event photos 活动照片
+<!-- Event photos 活动照片
 ======
 
 PAL ASS meeting in Cambridge, 2023
@@ -86,7 +86,7 @@ Field trips at the Dead Sea, 2018
 
 Studing at Nanjing University, 2017
 
-![N18_1](/images/foot_print/IMG_20190326_135117.jpg)
+![N18_1](/images/foot_print/IMG_20190326_135117.jpg) -->
 
 <br>
 
