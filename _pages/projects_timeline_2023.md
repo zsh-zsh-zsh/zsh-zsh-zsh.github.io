@@ -25,9 +25,9 @@ author_profile: false
 
 <!-- ![photo1](/images/project/timeline2023/ChronostratChart2023-09.jpg) -->
 <div align=center>
-<img src="/images/project/timeline2023/ChronostratChart2023-09.jpg" width = "300" height = "120" div align=center />
+<img src="/images/project/timeline2023/ChronostratChart2023-09.jpg" width = "80%" div align=center />
 <br>
-国际地质年代表
+国际地质年代表(可于[国际地层委员会](https://stratigraphy.org/)查看最新版）
 </div>
 
 <br>
@@ -41,7 +41,7 @@ author_profile: false
  
 <!--   ![photo1](/images/project/timeline2023/conop.jpg)  -->
 <div align=center>
-<img src="/images/project/timeline2023/conop.jpg" width = "320" height = "180" div align=center />
+<img src="/images/project/timeline2023/conop.jpg"  div align=center />
 <br>
 定量地层学方法CONOP
 </div>
@@ -54,9 +54,9 @@ author_profile: false
 另一方面高精度地质时间轴的发展让人们可以更精确地了解到不同地层所处的位置和时代。现代社会科技发展的同时，也有着大量原料的消耗，而人们在科研和工业中常使用的大量矿产材料均形成于地质历史时期，即埋藏在地层之中。精细的地层对比可以让人们更准确地确定矿产石油等工业原材料所埋藏的地层层位，从而实现对这些重要资源更有效的挖掘和寻找。
 
 <div align=center>
-<img src="/images/project/timeline2023/ones.png" width = "320" height = "180" div align=center />
+<img src="/images/project/timeline2023/ones.png"  div align=center />
 <br>
-地层古生物数据库OneStratigraphy
+地层古生物数据库[OneStratigraphy](https://onestratigraphy.ddeworld.org/)
 </div>
 
 <br>
