@@ -35,7 +35,7 @@ author_profile: false
 
 <img src="/images/project/timeline2023/conop.jpg" width = "800" height = "500" div align=center />
 
-<!-- <div align=center> ![photo1](/images/project/timeline2023/conop.jpg) -->
+ <div align=center> ![photo1](/images/project/timeline2023/conop.jpg) 
 
 定量地层学方法CONOP
 <br>
