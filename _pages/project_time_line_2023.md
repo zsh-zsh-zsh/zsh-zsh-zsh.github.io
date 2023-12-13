@@ -10,7 +10,8 @@ author_profile: false
 ======
 Recently I buit this personal website to display my academic interests, achievements and events. I hope this would be a good place to display my works and abilities.时间轴
 
-![photo1](/images/BLOG_image/IMG_20230908_195501-01.jpeg)
+![photo1](/images/project/timeline2023/ChronostratChart2023-09.jpg)
+国际地质年代表
 
 <br>
 
