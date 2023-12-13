@@ -12,7 +12,7 @@ Responsible projects 负责项目
 
 Quantatitative Stratigraphy and Geological Timeline
 ------
-1. Establishing a high-resolution numerical geological timeline for the Permian, Subcommission on Permian Stratigraphy, 2024.1-2024.12 国际底层委员会二叠纪地层分会 （主持）
+1. Establishing a high-resolution numerical geological timeline for the Permian, Subcommission on Permian Stratigraphy, 2024.1-2024.12 国际地层委员会二叠纪地层分会，建立二叠纪高分辨率数字时间轴 （主持）
 
 Projects involved 参与项目
 ======
