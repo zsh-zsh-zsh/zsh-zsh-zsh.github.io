@@ -24,7 +24,7 @@ author_profile: false
 然而基于化石的地层对比的时间精度是相当低的，一个全球广度可进行对比的物种，往往存活达数百万年的时间。因而地质学的研究也在很长一段时间里，一直是以百万年为基础单位展开的。
 
 <!-- ![photo1](/images/project/timeline2023/ChronostratChart2023-09.jpg) -->
-<img src="/images/project/timeline2023/ChronostratChart2023-09.jpg" width = "500" height = "500" div align=center />
+<img src="/images/project/timeline2023/ChronostratChart2023-09.jpg" width = "800" height = "500" div align=center />
 国际地质年代表
 <br>
 
@@ -33,7 +33,7 @@ author_profile: false
 ======
 随着计算机的发明与应用，人类的计算力得到了长足的进步，定量化的研究也在各个自然科学领域展开，地层学也走上了定量化的道路。
 
-<img src="/images/project/timeline2023/conop.jpg" width = "500" height = "500" div align=center />
+<img src="/images/project/timeline2023/conop.jpg" width = "800" height = "500" div align=center />
 
 <!-- <div align=center> ![photo1](/images/project/timeline2023/conop.jpg) -->
 
@@ -44,7 +44,7 @@ author_profile: false
 
 另一方面高精度地质时间轴的发展让人们可以更精确地了解到不同地层所处的位置和时代。现代社会科技发展的同时，也有着大量原料的消耗，而人们在科研和工业中常使用的大量矿产材料均形成于地质历史时期，即埋藏在地层之中。精细的地层对比可以让人们更准确地确定矿产石油等工业原材料所埋藏的地层层位，从而实现对这些重要资源更有效的挖掘和寻找。
 
-<img src="/images/project/timeline2023/ones.png" width = "500" height = "500" div align=center />
+<img src="/images/project/timeline2023/ones.png" width = "800" height = "500" div align=center />
 
 
 地层古生物数据库OneStratigraphy
