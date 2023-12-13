@@ -26,6 +26,7 @@ author_profile: false
 <!-- ![photo1](/images/project/timeline2023/ChronostratChart2023-09.jpg) -->
 <img src="/images/project/timeline2023/ChronostratChart2023-09.jpg" width = "800" height = "500" div align=center />
 国际地质年代表
+
 <br>
 
 
@@ -34,10 +35,12 @@ author_profile: false
 随着计算机的发明与应用，人类的计算力得到了长足的进步，定量化的研究也在各个自然科学领域展开，地层学也走上了定量化的道路。
 
 <img src="/images/project/timeline2023/conop.jpg" width = "800" height = "500" div align=center />
-
- <div align=center> ![photo1](/images/project/timeline2023/conop.jpg) 
-
 定量地层学方法CONOP
+ 
+<!--   ![photo1](/images/project/timeline2023/conop.jpg)  -->
+
+
+
 <br>
 
 通过定量地层学来建立高精度地质时间轴在许多领域都能发挥巨大的价值。一方面这意味着更高精度的地质时间尺度，为理解地质事件提供了更好的视角。比如，二叠纪末期发生的显生宙以来地球最大的生物灭绝事件其发生时间从最开始科学界理解的数十个百万年，在定量化的地层研究中逐渐被缩减到了几十万年。同时，定量化的研究也指示出陆地和海洋灭绝的异时性，这让人们对于地质历史时期发生的灭绝事件的剧烈程度以及不同地理范围下的环境影响都有了更新的认识，也为人们时常担心的是否在未来会发生的第六次大灭绝事件提起了更强烈的警示作用。
@@ -45,9 +48,9 @@ author_profile: false
 另一方面高精度地质时间轴的发展让人们可以更精确地了解到不同地层所处的位置和时代。现代社会科技发展的同时，也有着大量原料的消耗，而人们在科研和工业中常使用的大量矿产材料均形成于地质历史时期，即埋藏在地层之中。精细的地层对比可以让人们更准确地确定矿产石油等工业原材料所埋藏的地层层位，从而实现对这些重要资源更有效的挖掘和寻找。
 
 <img src="/images/project/timeline2023/ones.png" width = "800" height = "500" div align=center />
-
-
 地层古生物数据库OneStratigraphy
+
+
 <br>
 
 南京大学地球科学与工程学院生物演化与环境科教融合中心樊隽轩教授领衔，沈树忠院士团队建设的地层古生物数据库OneStratigraphy旨在囊括全球海量的地层古生物以及地球化学剖面数据，所有数据公开透明，各国科学家均可访问网站并选择下载。该数据库不仅包括了剖面的文字及数字记录，还建设了丰富的地图可视化、古地理坐标重建及古地图重建等功能。地层，这一记载了地球46亿年来沧海桑田、风土变迁的地史残卷，也将被一点点更精细化地修复、拼接和解读。
