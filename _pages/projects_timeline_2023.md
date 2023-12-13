@@ -26,7 +26,7 @@ author_profile: false
 <!-- ![photo1](/images/project/timeline2023/ChronostratChart2023-09.jpg) -->
 <div align=center>
 <img src="/images/project/timeline2023/ChronostratChart2023-09.jpg" width = "300" height = "120" div align=center />
-
+<br>
 国际地质年代表
 </div>
 
@@ -42,7 +42,7 @@ author_profile: false
 <!--   ![photo1](/images/project/timeline2023/conop.jpg)  -->
 <div align=center>
 <img src="/images/project/timeline2023/conop.jpg" width = "320" height = "180" div align=center />
-
+<br>
 定量地层学方法CONOP
 </div>
 
@@ -55,7 +55,7 @@ author_profile: false
 
 <div align=center>
 <img src="/images/project/timeline2023/ones.png" width = "320" height = "180" div align=center />
- 
+<br>
 地层古生物数据库OneStratigraphy
 </div>
 
