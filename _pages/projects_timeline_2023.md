@@ -23,8 +23,8 @@ author_profile: false
 
 然而基于化石的地层对比的时间精度是相当低的，一个全球广度可进行对比的物种，往往存活达数百万年的时间。因而地质学的研究也在很长一段时间里，一直是以百万年为基础单位展开的。
 
-![photo1](/images/project/timeline2023/ChronostratChart2023-09.jpg)
-<img src="/images/project/timeline2023/ChronostratChart2023-09.jpg" width = "100" height = "100" div align=right />
+<-- ![photo1](/images/project/timeline2023/ChronostratChart2023-09.jpg) -->
+<img src="/images/project/timeline2023/ChronostratChart2023-09.jpg" width = "200" height = "1000" div align=center />
 国际地质年代表
 <br>
 
@@ -33,7 +33,8 @@ author_profile: false
 ======
 随着计算机的发明与应用，人类的计算力得到了长足的进步，定量化的研究也在各个自然科学领域展开，地层学也走上了定量化的道路。
 
-<div align=center>![photo1](/images/project/timeline2023/conop.jpg)
+<img src="](/images/project/timeline2023/conop.jpg" width = "200" height = "1000" div align=center />
+<div align=center> ![photo1](/images/project/timeline2023/conop.jpg)
 
 定量地层学方法CONOP
 <br>
