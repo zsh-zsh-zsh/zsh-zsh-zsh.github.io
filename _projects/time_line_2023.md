@@ -2,7 +2,7 @@
 layout: archive
 title: '建立全球统一的高精度地质时间轴'
 date: 2023-12-13
-permalink: /project/timeline2023/
+permalink: /projects/timeline2023/
 tags:
   - projects
  
