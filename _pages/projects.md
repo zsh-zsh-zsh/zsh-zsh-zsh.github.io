@@ -23,7 +23,7 @@ Projects involved 参与项目
 
 <br>
   
-1. Establishing a numerical high-resolution geologic timeline, National Natural Science Foundation of China， (42250104), 2023.1-2023.12 自然基金委专项项目，建立全球统一的高精度地质时间轴 (参与工作) [【科普网页】](https://zsh-zsh-zsh.github.io/timeline2023/)
+1. Establishing a numerical high-resolution geologic timeline, National Natural Science Foundation of China， (42250104), 2023.1-2023.12 自然基金委专项项目，建立全球统一的高精度地质时间轴 (参与工作) [【科普网页】](https://zsh-zsh-zsh.github.io/projects/timeline2023/)
    
 
    
