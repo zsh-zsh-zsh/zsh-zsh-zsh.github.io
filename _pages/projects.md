@@ -5,7 +5,7 @@ permalink: /projects/
 author_profile: true
 ---
 
-Responsible projects 主持的项目
+Chaired projects 主持的项目
 ======
 
 <br>
