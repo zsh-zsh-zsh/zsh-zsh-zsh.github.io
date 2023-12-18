@@ -8,12 +8,19 @@ author_profile: true
 Some links 相关链接
 ======
 School of Earth Sciences and Engineering, Nanjing Univeristy [https://es.nju.edu.cn/main.htm]
+
 The Palaeontological Association [https://www.palass.org/]
+
 International Commission on Stratigraphy [https://stratigraphy.org/]
+
 Subcommission on Permian Stratigraphy [https://permian.stratigraphy.org/]
+
 Paleobiology Database [https://paleobiodb.org/]
+
 OneStratigraphy database [https://onestratigraphy.ddeworld.org/]
+
 NSFC科学基金网络信息系统登录平台 [https://grants.nsfc.gov.cn/pmpweb/login]
+
 stackoverflow [https://stackoverflow.com/]
 
 
