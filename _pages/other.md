@@ -7,9 +7,11 @@ author_profile: true
 
 Related links 相关链接
 ======
+School of Earth Sciences and Engineering, Nanjing Univeristy 南京大学地球科学与工程学院 [https://es.nju.edu.cn/main.htm]
+
 
 Reports about me 相关报道
-------
+======
 [“走遍世界”，南大地质学长带你筑梦科研](https://baijiahao.baidu.com/s?id=1694387184169767697&wfr=spider&for=pc)
 
 [地青春-张书涵：吾侪心事，古今长在，高山流水](https://mp.weixin.qq.com/s/lQcNkXDggPKeZz5mRBdzSg)
@@ -18,7 +20,7 @@ Reports about me 相关报道
 
 
 Popular science articles  科普文章
-------
+======
 [科教融合系列：撰写生命史诗——古生物遇上大数据 （上篇）](https://mp.weixin.qq.com/s/CqXo_OKg6w4cZCSZlsHRAA)
 
 [科教融合系列：撰写生命史诗——古生物遇上大数据（下篇）](https://ndsc.nju.edu.cn/5a/60/c11250a481888/page.htm)
