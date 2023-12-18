@@ -5,9 +5,16 @@ permalink: /other/
 author_profile: true
 ---
 
-Related links 相关链接
+Some links 相关链接
 ======
-School of Earth Sciences and Engineering, Nanjing Univeristy 南京大学地球科学与工程学院 [https://es.nju.edu.cn/main.htm]
+School of Earth Sciences and Engineering, Nanjing Univeristy [https://es.nju.edu.cn/main.htm]
+The Palaeontological Association [https://www.palass.org/]
+International Commission on Stratigraphy [https://stratigraphy.org/]
+Subcommission on Permian Stratigraphy [https://permian.stratigraphy.org/]
+Paleobiology Database [https://paleobiodb.org/]
+OneStratigraphy database [https://onestratigraphy.ddeworld.org/]
+NSFC科学基金网络信息系统登录平台 [https://grants.nsfc.gov.cn/pmpweb/login]
+stackoverflow [https://stackoverflow.com/]
 
 
 Reports about me 相关报道
