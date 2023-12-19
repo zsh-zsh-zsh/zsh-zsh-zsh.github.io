@@ -16,9 +16,9 @@ gem "github-pages", group: :jekyll_plugins
 
 # gem "jekyll"
 
-gem "jekyll", "~> 3.7"
-gem "minimal-mistakes-jekyll"
-bundle
+gem "jekyll"
+ gem "minimal-mistakes-jekyll"
+bundle update
 
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
