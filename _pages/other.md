@@ -110,4 +110,4 @@ A little tail 写在最后
 ------
 Geology is the study of pressure and time. That’s all it takes, really. Pressure and time.
 
-一万年来谁著史，三千里外觅封侯。
+亿万年来谁著史，八千里外赋新诗。
