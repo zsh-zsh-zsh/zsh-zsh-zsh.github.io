@@ -105,9 +105,10 @@ Studing at Nanjing University, 2017
 ![N18_1](/images/foot_print/IMG_20190326_135117.jpg) -->
 
 <br>
+<br>
 
 A little tail 写在最后
 ------
-Geology is the study of pressure and time. That’s all it takes, really. Pressure and time.
+<!-- Geology is the study of pressure and time. That’s all it takes, really. Pressure and time. -->
 
 亿万年来谁著史，八千里外赋新诗。
