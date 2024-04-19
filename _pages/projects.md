@@ -10,6 +10,11 @@ Chaired projects 主持的项目
 
 <br>
 
+Paleobiogeography and Paleoecology
+------
+
+* Ecological simulation during the late Paleozoic icehouse-greenhouse climate transition, National Natural Science Foundation of China, (423B2201), 2024.5-2025.12 自然基金委，青年学生基础研究项目（博士研究生），晚古生代冰室-温室气候转变下的生态模拟 (主持)
+
 Quantatitative Stratigraphy and Geological Timeline
 ------
 * Establishing a high-resolution numerical geological timeline for the Permian, Subcommission on Permian Stratigraphy, 2024.1-2024.12 国际地层委员会二叠纪地层分会，博士生项目，建立二叠纪高分辨率数字时间轴 （主持）
