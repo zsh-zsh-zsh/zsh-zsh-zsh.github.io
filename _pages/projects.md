@@ -8,8 +8,6 @@ author_profile: true
 Chaired projects 主持的项目
 ======
 
-<br>
-
 Paleobiogeography and Paleoecology
 ------
 
@@ -18,6 +16,8 @@ Paleobiogeography and Paleoecology
 Quantatitative Stratigraphy and Geological Timeline
 ------
 * Establishing a high-resolution numerical geological timeline for the Permian, Subcommission on Permian Stratigraphy, 2024.1-2024.12 国际地层委员会二叠纪地层分会，博士生项目，建立二叠纪高分辨率数字时间轴 （主持）
+
+<br>
 
 Projects involved 参与的项目
 ======
