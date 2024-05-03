@@ -46,7 +46,7 @@ Traditional stratigraphy
 
 Morphometrics
 ------
-1. 宋思存，**张书涵**，张子航，史宇坤\*. 2021. 定量古生物学常用R型多变量线性回归方法例析. 微体古生物学报，38(3)：292-300.
+1. [宋思存，**张书涵**，张子航，史宇坤\*. 2021. 定量古生物学常用R型多变量线性回归方法例析. 微体古生物学报，38(3)：292-300.](https://d.wanfangdata.com.cn/periodical/wtgswxb202103007)
 
 <!--  {% include base_path %} -->
 
