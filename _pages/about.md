@@ -40,9 +40,9 @@ Selected projects 代表项目
 ======
 More project could be found in the **Projects** section from the top.
 
+* Ecological simulation during the late Paleozoic icehouse-greenhouse climate transition, National Natural Science Foundation of China, (423B2201), 2024.5-2025.12 自然基金委，青年学生基础研究项目（博士研究生），晚古生代冰室-温室气候转变下的生态模拟 (主持)
+
 * Extreme Climates and biological responses during the Paleozoic-Mesozoic transition 自然基金委重大项目，古生代-中生代重大转折期极端气候与生物响应 (42293280), 2023.1-2027.12  (参与工作)
-   * Changing patterns of the high-resolution global biodiversity fromCarboniferous to Triassic 课题一，石炭纪—三叠纪高分辨率全球生物多样性演变, 2023.1-2027.12  (参与工作)
-   * Understanding the causes and consequences of extreme climate events from the Carboniferous to Triassic through models 课题四，石炭纪–三叠纪极端气候事件及其综合模拟, 2023.1-2027.12 (参与工作)
   
 * Establishing a numerical high-resolution geologic timeline 自然基金委专项项目，建立全球统一的高精度地质时间轴 (42250104), 2023.1-2023.12  (参与工作)
 
@@ -54,6 +54,8 @@ More publication could be found in the **Publications** section from the top.
 1. [**Zhang, S.H.\***, Shen, S.Z. and Erwin, D.H., 2022a. Latitudinal diversity gradient dynamics during Carboniferous to Triassic icehouse and greenhouse climates. Geology, 50(10): 1166-1171.](https://pubs.geoscienceworld.org/gsa/geology/article/50/10/1166/615406/Latitudinal-diversity-gradient-dynamics-during)
 1. [**Zhang, S.H.\***, Shen, S.Z. and Erwin, D.H., 2022b. Two cosmopolitanism events driven by different extreme paleoclimate regimes. Global and Planetary Change, 216.103899.](https://www.sciencedirect.com/science/article/pii/S0921818122001667?via%3Dihub) 
 1. [**Zhang, S.H.\***, Fan, J.X., Morgan, C.A., Henderson, C.M. and Shen, S.Z.\*, 2021. Quantifying the middle-late Cambrian trilobite diversity pattern in South China. Palaeogeography Palaeoclimatology Palaeoecology, 570.110361.](https://www.sciencedirect.com/science/article/pii/S0031018221001462?dgcid=raven_sd_via_email)
+1.  [Deng, Y.Y., Fan, J.X.\*, **Zhang, S.H.**, Fang, X., Chen, Z.Y., Shi, Y.K., Wang, H.W., Wang, X.B., Yang, J., Hou, X.D., Wang, Y., Zhang, Y.D., Chen, Q., Yang, A.H., Fan, R., Dong, S.C., Xu, H.Q. and Shen, S.Z., 2021. Timing and patterns of the Great Ordovician Biodiversification Event and Late Ordovician mass extinction: Perspectives from South China. Earth-Science Reviews, 220. 103743.](https://www.sciencedirect.com/science/article/abs/pii/S0012825221002440)
+1.  [Wu, Q., Zhang, H., Ramezani, J., Zhang, F.F., Erwin, D.H., Feng, Z., Shao, L.Y., Cai, Y.F., **Zhang, S.H.**, Xu, Y.G. and Shen, S.Z\*., 2024. The terrestrial end-Permian mass extinction in the paleotropics postdates the marine extinction. Science Advances, 10(5): eadi7284.](https://www.science.org/doi/10.1126/sciadv.adi7284)
 
 Academic foot prints 学术足迹
 ======
