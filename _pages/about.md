@@ -14,14 +14,14 @@ redirect_from:
 
 Hi, my name is **Zhang, Shuhan**. I am a PhD student majoring paleontology and stratigraphy at Nanjing University. My works focused on macroevolution at temporal and spatial sclaes in deep time, quantitative stratigraphy and data analyses in paleobiology.
 
-I got my bachelor degree at Nanjing University. I am a visiting student at the Department of Earth Sciences, University of Oxford. 
+I got my geology bachelor degree at Nanjing University. I like chinese ancient poems, history and all kinds of film and television works, and occasionally do some literary creation. I love the field, fossils, data analysis and visualisation. 
 
 Welcome to visit my [Google Scholar](https://scholar.google.com/citations?user=UG5Sx0UAAAAJ&hl=zh-CN) and [ResearchRate](https://www.researchgate.net/profile/Shuhan-Zhang-6) pages and contact me through e-mail (shuhanzhang@smail.nju.edu.cn).
 
 
-Hi~我是**张书涵**，南京大学地球科学与工程学院古生物学与地层学博士生,导师为沈树忠院士。我的主要研究方向为深时宏观演化过程的时空特征，定量地层学和古生物学的数据分析方法。曾获得本、硕、博国家奖学金，江苏省优秀毕业生等荣誉。
+Hi~我是**张书涵**，南京大学地球科学与工程学院古生物学与地层学博士生,导师为沈树忠院士。我的主要研究方向为深时宏观演化过程的时空特征，定量地层学和古生物学的数据分析方法。本科就读于南京大学地质学（生物演化与环境方向）专业，以第一作者在学科顶级期刊Geology、GPC和Palaeo3以及综合性学术期刊《科学通报》上发文章，参与了SA、ESR、Episodes等总计8篇SCI文章的工作，主持首批国家自然科学基金青年学生基础研究项目（博士研究生）及2024年国际地层委员会二叠纪地层分会的一个博士生项目，于2023年在牛津大学访问交流，曾获得本、硕、博国家奖学金、江苏省优秀毕业生等荣誉。
 
-喜欢古诗词，历史及各类影视作品，偶尔搞点文学创作。对装机、外设以及平面设计也有兴趣。喜欢野外，喜欢化石，喜欢数据分析及可视化，喜欢尝试不同领域及方法。
+喜欢古诗词，历史及各类影视作品，偶尔搞点文学创作。喜欢野外，喜欢化石，喜欢数据分析及可视化。
 
 欢迎访问我的[Google Scholar](https://scholar.google.com/citations?user=UG5Sx0UAAAAJ&hl=zh-CN)及[ResearchRate](https://www.researchgate.net/profile/Shuhan-Zhang-6)主页。有事欢迎邮件(shuhanzhang@smail.nju.edu.cn)联系~
 
