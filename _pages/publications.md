@@ -18,6 +18,8 @@ Paleobiogeography and paleoecology
 1. [**Zhang, S.H.\***, Shen, S.Z. and Erwin, D.H., 2022b. Two cosmopolitanism events driven by different extreme paleoclimate regimes. Global and Planetary Change, 216.103899.](https://www.sciencedirect.com/science/article/pii/S0921818122001667?via%3Dihub)
   (石炭纪至三叠纪海洋无脊椎动物生物地理均一化)
 
+1. [**张书涵**, 沈树忠, 王向东, 张华, 樊隽轩, 重建深时地球生物多样性时空分布模式的思考,  科学通报, 2024, ISSN 0023-074X, online](https://doi.org/10.1360/TB-2024-0152)
+
 <br>
 
 Quantitative stratigraphy and geological timeline
