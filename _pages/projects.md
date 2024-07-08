@@ -5,7 +5,7 @@ permalink: /projects/
 author_profile: true
 ---
 
-Chaired projects 主持的项目
+Projects 主持的项目
 ======
 
 Paleobiogeography and Paleoecology
