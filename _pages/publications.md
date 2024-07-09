@@ -10,7 +10,7 @@ author_profile: true
 <!-- {% endif %} -->
 
 
-Paleobiogeography and paleoecology
+Paleoecology and paleobiogeography 
 ------
 1. [**Zhang, S.H.\***, Shen, S.Z. and Erwin, D.H., 2022a. Latitudinal diversity gradient dynamics during Carboniferous to Triassic icehouse and greenhouse climates. Geology, 50(10): 1166-1171.](https://pubs.geoscienceworld.org/gsa/geology/article/50/10/1166/615406/Latitudinal-diversity-gradient-dynamics-during)
   (石炭纪至三叠纪海洋无脊椎动物纬向多样性梯度)
