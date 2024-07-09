@@ -16,7 +16,7 @@ Paleobiogeography and paleoecology
   (石炭纪至三叠纪海洋无脊椎动物纬向多样性梯度)
    
 1. [**Zhang, S.H.\***, Shen, S.Z. and Erwin, D.H., 2022b. Two cosmopolitanism events driven by different extreme paleoclimate regimes. Global and Planetary Change, 216.103899.](https://www.sciencedirect.com/science/article/pii/S0921818122001667?via%3Dihub)
-  (石炭纪至三叠纪海洋无脊椎动物生物地理均一化)
+  (石炭纪至三叠纪两次海洋无脊椎动物生物地理均一化事件)
 
 1. [**张书涵**, 沈树忠\*, 王向东, 张华, 樊隽轩, 重建深时地球生物多样性时空分布模式的思考,  科学通报, 2024, ISSN 0023-074X, online](https://doi.org/10.1360/TB-2024-0152)
 
@@ -44,9 +44,14 @@ Traditional stratigraphy
    
 <br>
 
-Morphometrics
+Other
 ------
 1. [宋思存，**张书涵**，张子航，史宇坤\*. 2021. 定量古生物学常用R型多变量线性回归方法例析. 微体古生物学报，38(3)：292-300.](https://d.wanfangdata.com.cn/periodical/wtgswxb202103007)
+
+2. [Deng, Y.Y., Song, S.C., Fan, J.X., Luo, M., Yao, L., Dong, S.C., Shi, Y.K., Zhang, L.N., Wang, Y., Xu, H., Xu, H.P., Zhao, Y.Y., Pan, Z.H., Hou, Z.S., Li, X.M., Shen, B.H., Chen, X.R., **Zhang, S.H.**, Wu, X.J., Xing, L.D., Liang, Q.Q. and Wang, E.Z., 2024. Paleontology Knowledge Graph for Data-Driven Discovery. Journal of Earth Science, 35(3): 1024-1034.](https://link.springer.com/article/10.1007/s12583-023-1943-9)
+
+
+   
 
 <!--  {% include base_path %} -->
 
