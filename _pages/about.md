@@ -54,8 +54,9 @@ More publication could be found in the **Publications** section from the top.
 1. [**Zhang, S.H.\***, Shen, S.Z. and Erwin, D.H., 2022a. Latitudinal diversity gradient dynamics during Carboniferous to Triassic icehouse and greenhouse climates. Geology, 50(10): 1166-1171.](https://pubs.geoscienceworld.org/gsa/geology/article/50/10/1166/615406/Latitudinal-diversity-gradient-dynamics-during)
 1. [**Zhang, S.H.\***, Shen, S.Z. and Erwin, D.H., 2022b. Two cosmopolitanism events driven by different extreme paleoclimate regimes. Global and Planetary Change, 216.103899.](https://www.sciencedirect.com/science/article/pii/S0921818122001667?via%3Dihub) 
 1. [**Zhang, S.H.\***, Fan, J.X., Morgan, C.A., Henderson, C.M. and Shen, S.Z.\*, 2021. Quantifying the middle-late Cambrian trilobite diversity pattern in South China. Palaeogeography Palaeoclimatology Palaeoecology, 570.110361.](https://www.sciencedirect.com/science/article/pii/S0031018221001462?dgcid=raven_sd_via_email)
+1. [**张书涵**, 沈树忠\*, 王向东, 张华, 樊隽轩, 重建深时地球生物多样性时空分布模式的思考,  科学通报, 2024, ISSN 0023-074X, online](https://doi.org/10.1360/TB-2024-0152)
 1.  [Deng, Y.Y., Fan, J.X.\*, **Zhang, S.H.**, Fang, X., Chen, Z.Y., Shi, Y.K., Wang, H.W., Wang, X.B., Yang, J., Hou, X.D., Wang, Y., Zhang, Y.D., Chen, Q., Yang, A.H., Fan, R., Dong, S.C., Xu, H.Q. and Shen, S.Z., 2021. Timing and patterns of the Great Ordovician Biodiversification Event and Late Ordovician mass extinction: Perspectives from South China. Earth-Science Reviews, 220. 103743.](https://www.sciencedirect.com/science/article/abs/pii/S0012825221002440)
-1.  [Wu, Q., Zhang, H., Ramezani, J., Zhang, F.F., Erwin, D.H., Feng, Z., Shao, L.Y., Cai, Y.F., **Zhang, S.H.**, Xu, Y.G. and Shen, S.Z\*., 2024. The terrestrial end-Permian mass extinction in the paleotropics postdates the marine extinction. Science Advances, 10(5): eadi7284.](https://www.science.org/doi/10.1126/sciadv.adi7284)
+
 
 Academic foot prints 学术足迹
 ======
