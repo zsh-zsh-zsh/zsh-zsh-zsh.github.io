@@ -29,7 +29,9 @@ Projects involved 参与的项目
 <br>
   
 * Establishing a numerical high-resolution geologic timeline, National Natural Science Foundation of China， (42250104), 2023.1-2023.12 自然基金委，专项项目，建立全球统一的高精度地质时间轴 (参与工作) [【科普网页】](https://zsh-zsh-zsh.github.io/projects/timeline2023/)
-   
 
+<br>
+  
+* Biological and Environmental Evolution of Tethys in Deep Time, The Second Tibetan Plateau Scientific Expedition and Research,  (2019QZKK0706), 2019.11-2024.11 科技部，第二次青藏高原综合科学考察研究项目第七任务第六专题，深时特提斯生物与环境演变 (参与工作)
    
  
