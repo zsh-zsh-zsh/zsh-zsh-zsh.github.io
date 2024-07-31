@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: Meetings"
+title: "Meetings"
 permalink: /meetings/
 author_profile: true
 ---
