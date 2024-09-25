@@ -27,7 +27,7 @@ Quantitative stratigraphy and geological timeline
 1. [**Zhang, S.H.\***, Fan, J.X., Morgan, C.A., Henderson, C.M. and Shen, S.Z.\*, 2021. Quantifying the middle-late Cambrian trilobite diversity pattern in South China. Palaeogeography Palaeoclimatology Palaeoecology, 570.110361.](https://www.sciencedirect.com/science/article/pii/S0031018221001462?dgcid=raven_sd_via_email)
 (中晚寒武华南三叶虫多样性)
 
-1.[**Zhang, S.H.\***, Yuan, D.X. and Shen, S.Z., 2024. Global correlation of the Guadalupian–Lopingian transition and associated events using a quantitative conodont-based biostratigraphic scheme. Palaeogeography, Palaeoclimatology, Palaeoecology, 655: 112502.](https://www.sciencedirect.com/science/article/abs/pii/S0031018224004917?via%3Dihub)
+1. [**Zhang, S.H.\***, Yuan, D.X. and Shen, S.Z., 2024. Global correlation of the Guadalupian–Lopingian transition and associated events using a quantitative conodont-based biostratigraphic scheme. Palaeogeography, Palaeoclimatology, Palaeoecology, 655: 112502.](https://www.sciencedirect.com/science/article/abs/pii/S0031018224004917?via%3Dihub)
 (中晚二叠全球牙形化石带）
 
 <br>
