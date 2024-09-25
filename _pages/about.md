@@ -55,7 +55,7 @@ More publication could be found in the **Publications** section from the top.
 1. [**Zhang, S.H.\***, Shen, S.Z. and Erwin, D.H., 2022b. Two cosmopolitanism events driven by different extreme paleoclimate regimes. Global and Planetary Change, 216.103899.](https://www.sciencedirect.com/science/article/pii/S0921818122001667?via%3Dihub) 
 1. [**Zhang, S.H.\***, Fan, J.X., Morgan, C.A., Henderson, C.M. and Shen, S.Z.\*, 2021. Quantifying the middle-late Cambrian trilobite diversity pattern in South China. Palaeogeography Palaeoclimatology Palaeoecology, 570.110361.](https://www.sciencedirect.com/science/article/pii/S0031018221001462?dgcid=raven_sd_via_email)
 1. [**Zhang, S.H.\***, Yuan, D.X. and Shen, S.Z., 2024. Global correlation of the Guadalupian–Lopingian transition and associated events using a quantitative conodont-based biostratigraphic scheme. Palaeogeography, Palaeoclimatology, Palaeoecology, 655: 112502.](https://www.sciencedirect.com/science/article/abs/pii/S0031018224004917?via%3Dihub)
-1. [**张书涵**, 沈树忠\*, 王向东, 张华, 樊隽轩, 重建深时地球生物多样性时空分布模式的思考,  科学通报, 2024, ISSN 0023-074X, online](https://doi.org/10.1360/TB-2024-0152)
+1. [**张书涵**, 沈树忠\*, 王向东, 张华, 樊隽轩, 重建深时地球生物多样性时空分布模式的思考,  科学通报, 2024, 69: 3252–3267, \(Zhang S H, Shen S Z, Wang X D, et al. A perspective on reconstructing the spatial and temporal patterns of Earth′s biodiversity in deep time (in Chinese). Chin Sci Bull, 2024, 69: 3252–3267\)](https://doi.org/10.1360/TB-2024-0152)
 
 
 
