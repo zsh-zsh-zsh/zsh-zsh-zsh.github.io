@@ -32,7 +32,7 @@ Reports about me 相关报道
 
 [石炭纪至三叠纪全球生物多样性纬向分布模式通过大数据研究取得新进展](https://es.nju.edu.cn/e5/07/c22449a582919/page.htm)
 
-[国奖学生风采展 | 地球科学与工程学院2021级直博生张书涵](https://mp.weixin.qq.com/s/vUZOSGZobgL3Wetd_SXUHg)
+[国奖学生风采展：地球科学与工程学院2021级直博生张书涵](https://mp.weixin.qq.com/s/vUZOSGZobgL3Wetd_SXUHg)
 
 
 Popular science articles  科普文章
