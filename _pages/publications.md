@@ -32,10 +32,11 @@ Quantitative stratigraphy and geological timeline
 
 <br>
 
-1. [Wu, Q., Zhang, H., Ramezani, J., Zhang, F.F., Erwin, D.H., Feng, Z., Shao, L.Y., Cai, Y.F., **Zhang, S.H.**, Xu, Y.G. and Shen, S.Z\*., 2024. The terrestrial end-Permian mass extinction in the paleotropics postdates the marine extinction. Science Advances, 10(5): eadi7284.](https://www.science.org/doi/10.1126/sciadv.adi7284)
-2. [Deng, Y.Y., Fan, J.X.\*, **Zhang, S.H.**, Fang, X., Chen, Z.Y., Shi, Y.K., Wang, H.W., Wang, X.B., Yang, J., Hou, X.D., Wang, Y., Zhang, Y.D., Chen, Q., Yang, A.H., Fan, R., Dong, S.C., Xu, H.Q. and Shen, S.Z., 2021. Timing and patterns of the Great Ordovician Biodiversification Event and Late Ordovician mass extinction: Perspectives from South China. Earth-Science Reviews, 220. 103743.](https://www.sciencedirect.com/science/article/abs/pii/S0012825221002440)
-3. [Shen, S.Z.\*, Fan, J.X., Wang, X.D., Zhang, F.F., Shi, Y.K. and **Zhang, S.H.**, 2022. How to Build a High-Resolution Digital Geological Timeline? Journal of Earth Science, 33(6): 1629-1632.](https://link.springer.com/article/10.1007/s12583-022-1315-z)
-4. [沈树忠\*, 樊隽轩, 王向东, 张飞飞, 史宇坤, **张书涵**. 如何打造高精度地质时间轴？[J]. 地球科学, 2022, 47(10): 3766-3769.](https://doi.org/10.3799/dqkx.2022.801)
+1.[Tang, Q., Zheng, W.T., **Zhang, S.H.**, Fan, J.X., Riedman, L.A., Hou, X.D., Muscente, A.D., Bykova, N., Sadler, P.M., Wang, X.D., Zhang, F.F., Yuan, X.L., Zhou, C.M., Wan, B., Pang, K., Ouyang, Q., McKenzie, N.R., Zhao, G.C., Shen, S.Z. and Xiao, S.H., 2024. Quantifying the global biodiversity of Proterozoic eukaryotes. Science, 386(6728): eadm9137.](https://www.science.org/doi/abs/10.1126/science.adm9137)
+2. [Wu, Q., Zhang, H., Ramezani, J., Zhang, F.F., Erwin, D.H., Feng, Z., Shao, L.Y., Cai, Y.F., **Zhang, S.H.**, Xu, Y.G. and Shen, S.Z\*., 2024. The terrestrial end-Permian mass extinction in the paleotropics postdates the marine extinction. Science Advances, 10(5): eadi7284.](https://www.science.org/doi/10.1126/sciadv.adi7284)
+3. [Deng, Y.Y., Fan, J.X.\*, **Zhang, S.H.**, Fang, X., Chen, Z.Y., Shi, Y.K., Wang, H.W., Wang, X.B., Yang, J., Hou, X.D., Wang, Y., Zhang, Y.D., Chen, Q., Yang, A.H., Fan, R., Dong, S.C., Xu, H.Q. and Shen, S.Z., 2021. Timing and patterns of the Great Ordovician Biodiversification Event and Late Ordovician mass extinction: Perspectives from South China. Earth-Science Reviews, 220. 103743.](https://www.sciencedirect.com/science/article/abs/pii/S0012825221002440)
+4. [Shen, S.Z.\*, Fan, J.X., Wang, X.D., Zhang, F.F., Shi, Y.K. and **Zhang, S.H.**, 2022. How to Build a High-Resolution Digital Geological Timeline? Journal of Earth Science, 33(6): 1629-1632.](https://link.springer.com/article/10.1007/s12583-022-1315-z)
+5. [沈树忠\*, 樊隽轩, 王向东, 张飞飞, 史宇坤, **张书涵**. 如何打造高精度地质时间轴？[J]. 地球科学, 2022, 47(10): 3766-3769.](https://doi.org/10.3799/dqkx.2022.801)
 
 <br>
 
