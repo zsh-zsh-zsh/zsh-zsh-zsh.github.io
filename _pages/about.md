@@ -71,6 +71,8 @@ Academic foot prints 学术足迹
 <br>
 <br>
 
+
+<!--
 Other 更多
 ======
 More information could be found in the [**Other**](https://zsh-zsh-zsh.github.io/other/) section from the top.
@@ -88,5 +90,5 @@ Selected popular science articles  科普
 [石燕拂云晴亦雨：一场两亿年的兴亡回望](https://mp.weixin.qq.com/s/zAiCRznNgdR4Z2U8X0F6Iw)
 
 <br>
-
+ -->
 
