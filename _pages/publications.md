@@ -24,7 +24,7 @@ Paleoecology and paleobiogeography
 
 Quantitative stratigraphy and geological timeline
 ------
-1. [**Zhang, S.H.**, Zhao, Y. Y., Shi, Y. K., Fang, Q., Wang, X. D., Fan, J. X., Zhang, Y. C., Yuan, D. X., Wang, Y., Zhang, F. F., Wu, H. C., Erwin, D. H., Marshall, C. R., and Shen, S. Z., 2025, Global cooling drove diversification and warming caused extinction among Carboniferous-Permian fusuline foraminifera: Science Advances, 11: 25](https://www.science.org/doi/10.1126/sciadv.adv2549)
+1. [**Zhang, S.H.**, Zhao, Y. Y., Shi, Y. K.\*, Fang, Q., Wang, X. D., Fan, J. X., Zhang, Y. C., Yuan, D. X., Wang, Y., Zhang, F. F., Wu, H. C., Erwin, D. H., Marshall, C. R., and Shen, S. Z.\*, 2025, Global cooling drove diversification and warming caused extinction among Carboniferous-Permian fusuline foraminifera: Science Advances, 11: 25](https://www.science.org/doi/10.1126/sciadv.adv2549)
 (全球䗴类有孔虫多样性与环境变化)
 
 1. [**Zhang, S.H.\***, Fan, J.X., Morgan, C.A., Henderson, C.M. and Shen, S.Z.\*, 2021. Quantifying the middle-late Cambrian trilobite diversity pattern in South China. Palaeogeography Palaeoclimatology Palaeoecology, 570.110361.](https://www.sciencedirect.com/science/article/pii/S0031018221001462?dgcid=raven_sd_via_email)
