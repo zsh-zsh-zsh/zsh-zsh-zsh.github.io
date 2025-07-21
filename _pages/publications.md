@@ -11,10 +11,10 @@ author_profile: true
 
 Quantitative stratigraphy and geological timeline
 ------
-1. [**Zhang, S.H.**, Zhao, Y. Y., Shi, Y. K.\*, Fang, Q., Wang, X. D., Fan, J. X., Zhang, Y. C., Yuan, D. X., Wang, Y., Zhang, F. F., Wu, H. C., Erwin, D. H., Marshall, C. R., and Shen, S. Z.\*, 2025, Global cooling drove diversification and warming caused extinction among Carboniferous-Permian fusuline foraminifera: Science Advances, 11: 25](https://www.science.org/doi/10.1126/sciadv.adv2549)
+1. [**Zhang, S.H.**, Zhao, Y. Y., Shi, Y. K.\*, Fang, Q., Wang, X. D., Fan, J. X., Zhang, Y. C., Yuan, D. X., Wang, Y., Zhang, F. F., Wu, H. C., Erwin, D. H., Marshall, C. R., and Shen, S. Z.\*, 2025, Global cooling drove diversification and warming caused extinction among Carboniferous-Permian fusuline foraminifera: Science Advances, 11: eadv2549.](https://www.science.org/doi/10.1126/sciadv.adv2549)
 (全球䗴类有孔虫多样性与环境变化)[【报道news 1】](https://www.eurekalert.org/news-releases/1087934) [【报道news 2】](https://app.gmdaily.cn/as/opened/n/b55830f03aa1499a9dcad172af0f3079) [【报道news 3】](https://mp.weixin.qq.com/s/YKqq199ctOHUJAKLjn1f8A)
 
-1. [**Zhang, S.H.\***, Fan, J.X., Morgan, C.A., Henderson, C.M. and Shen, S.Z.\*, 2021. Quantifying the middle-late Cambrian trilobite diversity pattern in South China. Palaeogeography Palaeoclimatology Palaeoecology, 570.110361.](https://www.sciencedirect.com/science/article/pii/S0031018221001462?dgcid=raven_sd_via_email)
+1. [**Zhang, S.H.\***, Fan, J.X., Morgan, C.A., Henderson, C.M. and Shen, S.Z.\*, 2021. Quantifying the middle-late Cambrian trilobite diversity pattern in South China. Palaeogeography Palaeoclimatology Palaeoecology, 570: 110361.](https://www.sciencedirect.com/science/article/pii/S0031018221001462?dgcid=raven_sd_via_email)
 (中晚寒武华南三叶虫多样性)
 
 1. [**Zhang, S.H.\***, Yuan, D.X. and Shen, S.Z., 2024. Global correlation of the Guadalupian–Lopingian transition and associated events using a quantitative conodont-based biostratigraphic scheme. Palaeogeography, Palaeoclimatology, Palaeoecology, 655: 112502.](https://www.sciencedirect.com/science/article/abs/pii/S0031018224004917?via%3Dihub)
