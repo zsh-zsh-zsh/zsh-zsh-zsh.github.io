@@ -17,7 +17,13 @@ Meeting presentations
 
 International meeting
 ------
-1. [**Zhang, S.H.**, Fan, J.X., Shen, S.Z. et al., 2024. Construct a high-resolution geological timeline through the Devonian to Triassic. 12th North American Paleontological Convention 2024, Ann Arbor, United state](https://sites.lsa.umich.edu/napc2024/)
+1. [**Zhang, S.H.**, et al., 2025. Increased turnover rates in fusulinid faunas of the late Paleozoic ice age. GEOTOLOSA 2025 Congress, Toulouse, France](https://geotolosa2025.sciencesconf.org/?lang=en)
+
+1. [**Zhang, S.H.**, et al., 2025. Fusulinid Evolutionary Faunas of the late Paleozoic. General Assembly 2025 of the European Geosciences Union, Vienna, Austria](https://www.egu25.eu/)
+
+1. [**Zhang, S.H.**, et al., 2024. Construct a high-resolution geological timeline through the Devonian to Triassic. 12th North American Paleontological Convention 2024, Ann Arbor, United state](https://sites.lsa.umich.edu/napc2024/)
+
+
 
 
 
