@@ -47,6 +47,8 @@ Traditional stratigraphy
 1. [Shen, S.Z.\*, Yuan, D.X., Zhang, Y.C., Henderson, C.M., Zheng, Q.F., Zhang, H., Zhang, M., Dai, Y., Xu, H.P., Wang, W.Q., Li, Q., Wang, Y., Wang, X.D., Mu, L., Ramezani, J., Erwin, D.H., Angiolini, L., Zhang, F.F., Hou, Z.S., Chen, J., Zhang, X.Y., **Zhang, S.H.**, Wu, Q., Pan, Y.X., Stephenson, M. and Mei, S.L., 2024. Redefinition of the Global Stratotype Section and Point (GSSP) and new Standard Auxiliary Boundary Stratotype (SABS) for the base of Wuchiapingian Stage (Lopingian Series, Permian) in South China. Episodes.47(1): 147-177.](https://www.episodes.org/journal/view.html?uid=2345&vmd=Full)
 
 2. [Shen, S.Z.\*, Yuan, D.X., Zhang, Y.C., Henderson, C.M., Zheng, Q.F., Zhang, H., Zhang, M., Dai, X., Xu, H.P., Wang, W.Q., Li, Q., Wang, Y., Wang, X.D., Ramezani, J., Erwin, D.H., Angiolini, L., Zhang, F.F., Hou, Z.S., Zhang, X.Y., **Zhang, S.H.**, Pan, Y.X., Stenphenson, M. and Mei, S.L., 2023. Redefinition of the Global Stratotype Section and Point (GSSP) and new Standard Auxiliary Boundary Stratotype (SABS) for the base of Wuchiapingian Stage (Lopingian Series, Permian) in South China. Permophiles, 74: 9-37.](https://permian.stratigraphy.org/files/permophiles/Permophiles%2074.pdf)
+
+3. [侯章帅 , 王向东 , 支东明 , 唐勇 , 吴琼 , 张华 , 曹剑  , 肖冬生 , 付国斌 , 郑孟林, 齐雪峰 , 蔡垚峰, 冯卓, 张斌 , 周川闽 , 李莹, 叶训焱 , 黄兴 , **张书涵**, 申博恒, Jahandar Ramezani, 张水昌 , 沈树忠。准噶尔盆地及周缘石炭—二叠纪烃源岩高精度年代地层格架与时空演化 (J/OL). 中国科学: 地球科学, 2025.](https://www.sciengine.com/SSTe/doi/10.1360/SSTe-2025-0260)
    
 <br>
 
