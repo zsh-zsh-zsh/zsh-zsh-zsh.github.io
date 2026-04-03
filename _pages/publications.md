@@ -62,9 +62,9 @@ Stratigraphy
 Other
 ------
 
-2. [宋思存，**张书涵**，张子航，史宇坤\*. 2021. 定量古生物学常用R型多变量线性回归方法例析. 微体古生物学报，38(3)：292-300.](https://d.wanfangdata.com.cn/periodical/wtgswxb202103007)
+1. [宋思存，**张书涵**，张子航，史宇坤\*. 2021. 定量古生物学常用R型多变量线性回归方法例析. 微体古生物学报，38(3)：292-300.](https://d.wanfangdata.com.cn/periodical/wtgswxb202103007)
 
-3. [Deng, Y.Y., Song, S.C., Fan, J.X., Luo, M., Yao, L., Dong, S.C., Shi, Y.K., Zhang, L.N., Wang, Y., Xu, H., Xu, H.P., Zhao, Y.Y., Pan, Z.H., Hou, Z.S., Li, X.M., Shen, B.H., Chen, X.R., **Zhang, S.H.**, Wu, X.J., Xing, L.D., Liang, Q.Q. and Wang, E.Z., 2024. Paleontology Knowledge Graph for Data-Driven Discovery. Journal of Earth Science, 35(3): 1024-1034.](https://link.springer.com/article/10.1007/s12583-023-1943-9)
+2. [Deng, Y.Y., Song, S.C., Fan, J.X., Luo, M., Yao, L., Dong, S.C., Shi, Y.K., Zhang, L.N., Wang, Y., Xu, H., Xu, H.P., Zhao, Y.Y., Pan, Z.H., Hou, Z.S., Li, X.M., Shen, B.H., Chen, X.R., **Zhang, S.H.**, Wu, X.J., Xing, L.D., Liang, Q.Q. and Wang, E.Z., 2024. Paleontology Knowledge Graph for Data-Driven Discovery. Journal of Earth Science, 35(3): 1024-1034.](https://link.springer.com/article/10.1007/s12583-023-1943-9)
 
 
    
