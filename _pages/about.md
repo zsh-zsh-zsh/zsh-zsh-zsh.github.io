@@ -40,6 +40,8 @@ Selected projects 代表项目
 ======
 More project could be found in the **Projects** section from the top.
 
+* High-Resolution Evolutionary Rates and Driving Mechanism Across the Late Paleozoic Icehouse–Greenhouse Transition, (42602001), 2027.1-2029.12 自然基金委，青年科学基金项目（C类），晚古生代冰室—温室气候转型期生物演化速率的高精度重建与驱动机制研究 (主持)
+
 * Ecological simulation during the late Paleozoic icehouse-greenhouse climate transition, National Natural Science Foundation of China, (423B2201), 2024.5-2025.12 自然基金委，青年学生基础研究项目（博士研究生），晚古生代冰室-温室气候转变下的生态模拟 (主持)
 
 * Extreme Climates and biological responses during the Paleozoic-Mesozoic transition 自然基金委重大项目，古生代-中生代重大转折期极端气候与生物响应 (42293280), 2023.1-2027.12  (参与工作)
@@ -62,8 +64,9 @@ More publication could be found in the **Publications** section from the top.
 Academic foot prints 学术足迹
 ======
 
-  [![Foot print (field trips, meetings, workshops )](/images/foot_print/foot_print.png)](https://raw.githack.com/zsh-zsh-zsh/zsh-zsh-zsh.github.io/master/images/foot_print/foot%20prints.html) 
- (click the picture to see the interactive map 点击图片查看互动地图)
+  [![Foot print (field trips, meetings, workshops )](/images/foot_print/foot_print.png)]
+<!--   (https://raw.githack.com/zsh-zsh-zsh/zsh-zsh-zsh.github.io/master/images/foot_print/foot%20prints.html) -->
+<!-- (click the picture to see the interactive map 点击图片查看互动地图)-->
 
 <!-- [![another way](/images/foot_print/acadaemic_footprint_animation.gif)](https://rawcdn.githack.com/zsh-zsh-zsh/zsh-zsh-zsh.github.io/7af58a7de13629d9e04d4fc7b4188207d61c7708/images/foot_print/foot%20prints.html) 
 (click the picture to see the interactive map 点击图片查看互动地图)  -->
