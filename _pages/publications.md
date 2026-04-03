@@ -44,7 +44,7 @@ Paleoecology and paleobiogeography
 
 Stratigraphy
 ------  
-1.  [10.	Wu, Q., Hou, Z.S., Ramezani, J., Yuan, D.X., Zhang, H., Wang, W.Q., Zheng, Q.F., Zhang, Y.C., Zhang, F.F., Wei, G.Y.,** Zhang, S.H.**, Wang, Y., Erwin, D.H., Xu, Y.G. and Shen, S.Z.\*, 2026. Why the end-Guadalupian biotic crisis differs from mass extinctions: Insights from high-precision geochronology and carbon cycle modeling. Earth and Planetary Science Letters, 679: 119898.](https://www.sciencedirect.com/science/article/abs/pii/S0012821X26000816)
+1.  [Wu, Q., Hou, Z.S., Ramezani, J., Yuan, D.X., Zhang, H., Wang, W.Q., Zheng, Q.F., Zhang, Y.C., Zhang, F.F., Wei, G.Y.,** Zhang, S.H.**, Wang, Y., Erwin, D.H., Xu, Y.G. and Shen, S.Z.\*, 2026. Why the end-Guadalupian biotic crisis differs from mass extinctions: Insights from high-precision geochronology and carbon cycle modeling. Earth and Planetary Science Letters, 679: 119898.](https://www.sciencedirect.com/science/article/abs/pii/S0012821X26000816)
 
 2. [Hou Z.S., Wang X.D., Zhi D.M., Tang Y, Wu Q, Zhang H, Cao J, Xiao D.S., Fu G.B., Zheng M.L., Qi X.F., Cai Y.F., Feng Z, Zhang B, Zhou C.M., Li Y, Ye X.Y., Huang X, **Zhang S.H.**, Shen B.H., Ramezani J, Zhang S.C., Shen S.Z.\* 2026. High-resolution chronostratigraphic framework and spatiotemporal evolution of Carboniferous-Permian source rocks in the Junggar Basin and its periphery. Science China Earth Sciences, 9: 288–312.](https://link.springer.com/article/10.1007/s11430-025-1748-3)
 
