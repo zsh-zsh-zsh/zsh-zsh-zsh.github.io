@@ -42,21 +42,29 @@ Paleoecology and paleobiogeography
 <br>
 
 
-Traditional stratigraphy
+Stratigraphy
 ------  
-1. [Shen, S.Z.\*, Yuan, D.X., Zhang, Y.C., Henderson, C.M., Zheng, Q.F., Zhang, H., Zhang, M., Dai, Y., Xu, H.P., Wang, W.Q., Li, Q., Wang, Y., Wang, X.D., Mu, L., Ramezani, J., Erwin, D.H., Angiolini, L., Zhang, F.F., Hou, Z.S., Chen, J., Zhang, X.Y., **Zhang, S.H.**, Wu, Q., Pan, Y.X., Stephenson, M. and Mei, S.L., 2024. Redefinition of the Global Stratotype Section and Point (GSSP) and new Standard Auxiliary Boundary Stratotype (SABS) for the base of Wuchiapingian Stage (Lopingian Series, Permian) in South China. Episodes.47(1): 147-177.](https://www.episodes.org/journal/view.html?uid=2345&vmd=Full)
+1.  [10.	Wu, Q., Hou, Z.S., Ramezani, J., Yuan, D.X., Zhang, H., Wang, W.Q., Zheng, Q.F., Zhang, Y.C., Zhang, F.F., Wei, G.Y.,** Zhang, S.H.**, Wang, Y., Erwin, D.H., Xu, Y.G. and Shen, S.Z.\*, 2026. Why the end-Guadalupian biotic crisis differs from mass extinctions: Insights from high-precision geochronology and carbon cycle modeling. Earth and Planetary Science Letters, 679: 119898.](https://www.sciencedirect.com/science/article/abs/pii/S0012821X26000816)
 
-2. [Shen, S.Z.\*, Yuan, D.X., Zhang, Y.C., Henderson, C.M., Zheng, Q.F., Zhang, H., Zhang, M., Dai, X., Xu, H.P., Wang, W.Q., Li, Q., Wang, Y., Wang, X.D., Ramezani, J., Erwin, D.H., Angiolini, L., Zhang, F.F., Hou, Z.S., Zhang, X.Y., **Zhang, S.H.**, Pan, Y.X., Stenphenson, M. and Mei, S.L., 2023. Redefinition of the Global Stratotype Section and Point (GSSP) and new Standard Auxiliary Boundary Stratotype (SABS) for the base of Wuchiapingian Stage (Lopingian Series, Permian) in South China. Permophiles, 74: 9-37.](https://permian.stratigraphy.org/files/permophiles/Permophiles%2074.pdf)
+2. [Hou Z.S., Wang X.D., Zhi D.M., Tang Y, Wu Q, Zhang H, Cao J, Xiao D.S., Fu G.B., Zheng M.L., Qi X.F., Cai Y.F., Feng Z, Zhang B, Zhou C.M., Li Y, Ye X.Y., Huang X, **Zhang S.H.**, Shen B.H., Ramezani J, Zhang S.C., Shen S.Z.\* 2026. High-resolution chronostratigraphic framework and spatiotemporal evolution of Carboniferous-Permian source rocks in the Junggar Basin and its periphery. Science China Earth Sciences, 9: 288–312.](https://link.springer.com/article/10.1007/s11430-025-1748-3)
 
-3. [侯章帅 , 王向东 , 支东明 , 唐勇 , 吴琼 , 张华 , 曹剑  , 肖冬生 , 付国斌 , 郑孟林, 齐雪峰 , 蔡垚峰, 冯卓, 张斌 , 周川闽 , 李莹, 叶训焱 , 黄兴 , **张书涵**, 申博恒, Jahandar Ramezani, 张水昌 , 沈树忠。准噶尔盆地及周缘石炭—二叠纪烃源岩高精度年代地层格架与时空演化 (J/OL). 中国科学: 地球科学, 2025.](https://www.sciengine.com/SSTe/doi/10.1360/SSTe-2025-0260)
+3. [侯章帅, 王向东, 支东明, 唐勇, 吴琼, 张华, 曹剑, 肖冬生, 付国斌, 郑孟林, 齐雪峰, 蔡垚峰, 冯卓, 张斌, 周川闽, 李莹, 叶训焱, 黄兴, **张书涵**, 申博恒, Ramezani J, 张水昌, 沈树忠\*. 准噶尔盆地及周缘石炭-二叠纪烃源岩高精度年代地层格架与时空演化. 2026, 中国科学: 地球科学, 56: 304–328.](https://www.sciengine.com/SSTe/doi/10.1360/SSTe-2025-0260)
+
+
+4. [Shen, S.Z.\*, Yuan, D.X., Zhang, Y.C., Henderson, C.M., Zheng, Q.F., Zhang, H., Zhang, M., Dai, Y., Xu, H.P., Wang, W.Q., Li, Q., Wang, Y., Wang, X.D., Mu, L., Ramezani, J., Erwin, D.H., Angiolini, L., Zhang, F.F., Hou, Z.S., Chen, J., Zhang, X.Y., **Zhang, S.H.**, Wu, Q., Pan, Y.X., Stephenson, M. and Mei, S.L., 2024. Redefinition of the Global Stratotype Section and Point (GSSP) and new Standard Auxiliary Boundary Stratotype (SABS) for the base of Wuchiapingian Stage (Lopingian Series, Permian) in South China. Episodes.47(1): 147-177.](https://www.episodes.org/journal/view.html?uid=2345&vmd=Full)
+
+5. [Shen, S.Z.\*, Yuan, D.X., Zhang, Y.C., Henderson, C.M., Zheng, Q.F., Zhang, H., Zhang, M., Dai, X., Xu, H.P., Wang, W.Q., Li, Q., Wang, Y., Wang, X.D., Ramezani, J., Erwin, D.H., Angiolini, L., Zhang, F.F., Hou, Z.S., Zhang, X.Y., **Zhang, S.H.**, Pan, Y.X., Stenphenson, M. and Mei, S.L., 2023. Redefinition of the Global Stratotype Section and Point (GSSP) and new Standard Auxiliary Boundary Stratotype (SABS) for the base of Wuchiapingian Stage (Lopingian Series, Permian) in South China. Permophiles, 74: 9-37.](https://permian.stratigraphy.org/files/permophiles/Permophiles%2074.pdf)
+
+   
    
 <br>
 
 Other
 ------
-1. [宋思存，**张书涵**，张子航，史宇坤\*. 2021. 定量古生物学常用R型多变量线性回归方法例析. 微体古生物学报，38(3)：292-300.](https://d.wanfangdata.com.cn/periodical/wtgswxb202103007)
 
-2. [Deng, Y.Y., Song, S.C., Fan, J.X., Luo, M., Yao, L., Dong, S.C., Shi, Y.K., Zhang, L.N., Wang, Y., Xu, H., Xu, H.P., Zhao, Y.Y., Pan, Z.H., Hou, Z.S., Li, X.M., Shen, B.H., Chen, X.R., **Zhang, S.H.**, Wu, X.J., Xing, L.D., Liang, Q.Q. and Wang, E.Z., 2024. Paleontology Knowledge Graph for Data-Driven Discovery. Journal of Earth Science, 35(3): 1024-1034.](https://link.springer.com/article/10.1007/s12583-023-1943-9)
+2. [宋思存，**张书涵**，张子航，史宇坤\*. 2021. 定量古生物学常用R型多变量线性回归方法例析. 微体古生物学报，38(3)：292-300.](https://d.wanfangdata.com.cn/periodical/wtgswxb202103007)
+
+3. [Deng, Y.Y., Song, S.C., Fan, J.X., Luo, M., Yao, L., Dong, S.C., Shi, Y.K., Zhang, L.N., Wang, Y., Xu, H., Xu, H.P., Zhao, Y.Y., Pan, Z.H., Hou, Z.S., Li, X.M., Shen, B.H., Chen, X.R., **Zhang, S.H.**, Wu, X.J., Xing, L.D., Liang, Q.Q. and Wang, E.Z., 2024. Paleontology Knowledge Graph for Data-Driven Discovery. Journal of Earth Science, 35(3): 1024-1034.](https://link.springer.com/article/10.1007/s12583-023-1943-9)
 
 
    
