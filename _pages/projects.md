@@ -15,6 +15,8 @@ Paleobiogeography and Paleoecology
 
 Quantatitative Stratigraphy and Geological Timeline
 ------
+* High-Resolution Evolutionary Rates and Driving Mechanism Across the Late Paleozoic Icehouse–Greenhouse Transition, (42602001), 2027.1-2029.12 自然基金委，青年科学基金项目（C类），晚古生代冰室—温室气候转型期生物演化速率的高精度重建与驱动机制研究 (主持)
+
 * Establishing a high-resolution numerical geological timeline for the Permian, Subcommission on Permian Stratigraphy, 2024.1-2024.12 国际地层委员会二叠纪地层分会，博士生项目，建立二叠纪高分辨率数字时间轴 （主持）
 
 <br>
