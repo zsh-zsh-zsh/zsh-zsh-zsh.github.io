@@ -64,8 +64,8 @@ More publication could be found in the **Publications** section from the top.
 Academic foot prints 学术足迹
 ======
 
-<!--   [! -->
-  [Foot print (field trips, meetings, workshops )](/images/foot_print/foot_print.png)
+<!--   [ -->
+  ![Foot print (field trips, meetings, workshops )](/images/foot_print/foot_print.png)
 <!--   ] -->
 <!--   (https://raw.githack.com/zsh-zsh-zsh/zsh-zsh-zsh.github.io/master/images/foot_print/foot%20prints.html) -->
 <!-- (click the picture to see the interactive map 点击图片查看互动地图)-->
