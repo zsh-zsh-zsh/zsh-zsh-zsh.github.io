@@ -12,7 +12,7 @@ redirect_from:
 
 <br>
 
-Hi, my name is **Zhang, Shuhan**. I am a postdoctor working on paleontology and stratigraphy at Nanjing University. My works focused on macroevolution at temporal and spatial sclaes in deep time, quantitative stratigraphy and data analyses in paleobiology.
+Hi, my name is **Zhang, Shuhan**. I am a postdoctor working on paleontology and stratigraphy at Nanjing University. My works focused on macroevolution at temporal and spatial scales in deep time, quantitative stratigraphy and data analyses in paleobiology.
 
 I got my geology bachelor and PhD degree at Nanjing University. I like chinese ancient poems, history and all kinds of film and television works, and occasionally do some literary creation. I love the field, fossils, data analysis and visualisation. 
 
