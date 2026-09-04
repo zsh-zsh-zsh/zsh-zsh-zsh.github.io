@@ -19,6 +19,11 @@ Quantatitative Stratigraphy and Geological Timeline
 
 * Establishing a high-resolution numerical geological timeline for the Permian, Subcommission on Permian Stratigraphy, 2024.1-2024.12 国际地层委员会二叠纪地层分会，博士生项目，建立二叠纪高分辨率数字时间轴 （主持）
 
+Other
+------
+* Postdoctoral Fellowship Program of CPSF under Grant Number GZB20260105, 2026 国家资助博士后研究人员计划B
+
+
 <br>
 
 Projects involved 参与的项目
