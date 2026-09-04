@@ -17,6 +17,10 @@ Meeting presentations
 
 International meeting
 ------
+1. [**Zhang, S.H.**, et al., 2026. Increased turnover rates in fusulinid faunas of the late Paleozoic ice age. PalAss 2026, Oxford, UK](https://palass.org/)
+2. 
+1. [**Zhang, S.H.**, et al., 2026. Increased turnover rates in fusulinid faunas of the late Paleozoic ice age. STRATI 2026, Suzhou, China](https://strati2026.org/)
+   
 1. [**Zhang, S.H.**, et al., 2025. Increased turnover rates in fusulinid faunas of the late Paleozoic ice age. GEOTOLOSA 2025 Congress, Toulouse, France](https://geotolosa2025.sciencesconf.org/?lang=en)
 
 1. [**Zhang, S.H.**, et al., 2025. Fusulinid Evolutionary Faunas of the late Paleozoic. General Assembly 2025 of the European Geosciences Union, Vienna, Austria](https://www.egu25.eu/)
