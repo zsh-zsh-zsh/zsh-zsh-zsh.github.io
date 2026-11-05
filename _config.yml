@@ -21,7 +21,7 @@ locale                   : "China"
 title                    : "Shuhan Zhang"
 title_separator          : "-"
 name                     : &name "Shuhan Zhang"
-description              : &description "PhD student at Nanjing University"
+description              : &description "Postdoc at Nanjing University"
 url                      : "https://zsh-zsh-zsh.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/zsh-zsh-zsh/Shuhan_Zhang.github.io"
@@ -93,7 +93,7 @@ analytics:
 author:
   name             : "Shuhan Zhang"
   avatar           : "important/IMG_20230913_131922-01 (2).png"
-  bio              : "PhD student at Nanjing University"
+  bio              : "Postdoc at Nanjing University"
   location         : "Nanjing, China"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
