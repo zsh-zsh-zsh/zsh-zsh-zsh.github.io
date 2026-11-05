@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in geology, Nanjing University, 2021
-* Ph.D in  geology, Nanjing University, 2026 (expected)
+* Ph.D in  geology, Nanjing University, 2026 
 
 Work experience
 ======
