@@ -51,7 +51,7 @@ staticman:
   path                   : "_data/comments/{options.slug}"
   requiredFields         : ['name', 'email', 'message']
   transforms:
-    email                : "shuhanzhang@smail.nju.edu.cn"
+    email                : "shzhang@nju.edu.cn"
   generatedFields:
     date:
       type               : "date"
@@ -98,7 +98,7 @@ author:
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=UG5Sx0UAAAAJ&hl=zh-CN"
-  email            : "shuhanzhang@smail.nju.edu.cn"
+  email            : "shzhang@nju.edu.cn"
   researchgate     :  "https://www.researchgate.net/profile/Shuhan-Zhang-6"
   uri              :
   bitbucket        :
