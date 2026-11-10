@@ -25,7 +25,7 @@ Hi~我是**张书涵**，南京大学地球科学与工程学院古生物学与�
 
 欢迎访问我的[Google Scholar](https://scholar.google.com/citations?user=UG5Sx0UAAAAJ&hl=zh-CN)及[ResearchRate](https://www.researchgate.net/profile/Shuhan-Zhang-6)主页。有事欢迎邮件(shzhang@nju.edu.cn)联系~
 
-[![post](/images/important/post.png)](https://zsh-zsh-zsh.github.io/year-archive/)
+<!-- [![post](/images/important/post.png)](https://zsh-zsh-zsh.github.io/year-archive/) -->
 
 <br>
 
@@ -64,11 +64,12 @@ More publication could be found in the **Publications** section from the top.
 Academic foot prints 学术足迹
 ======
 
-<!--   [ -->
+<!--
   ![Foot print (field trips, meetings, workshops )](/images/foot_print/foot_print.png)
-<!--   ] -->
-<!--   (https://raw.githack.com/zsh-zsh-zsh/zsh-zsh-zsh.github.io/master/images/foot_print/foot%20prints.html) -->
-<!-- (click the picture to see the interactive map 点击图片查看互动地图)-->
+  (https://raw.githack.com/zsh-zsh-zsh/zsh-zsh-zsh.github.io/master/images/foot_print/foot%20prints.html)
+-->
+
+[点击查看互动版"学术足迹"地图 →](/footprints/)
 
 <!-- [![another way](/images/foot_print/acadaemic_footprint_animation.gif)](https://rawcdn.githack.com/zsh-zsh-zsh/zsh-zsh-zsh.github.io/7af58a7de13629d9e04d4fc7b4188207d61c7708/images/foot_print/foot%20prints.html) 
 (click the picture to see the interactive map 点击图片查看互动地图)  -->
