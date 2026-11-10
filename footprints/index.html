@@ -1445,6 +1445,37 @@ footer {
   box-shadow: 0 4px 12px -8px rgba(0, 0, 0, 0.9);
 }
 
+/* ---------------- 顶栏：返回主页 ---------------- */
+.topbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  margin: -26px 0 12px;
+}
+.topbar .lang-switch { margin: 0; }
+.home-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-family: var(--sans);
+  font-size: 11px;
+  letter-spacing: 0.08em;
+  color: var(--night-muted);
+  border: 1px solid rgba(242, 234, 216, 0.22);
+  border-radius: 999px;
+  padding: 5px 12px;
+  text-decoration: none;
+  white-space: nowrap;
+  transition: background 0.18s, color 0.18s, border-color 0.18s;
+}
+.home-link:hover {
+  color: var(--night-text);
+  border-color: rgba(242, 234, 216, 0.5);
+  background: rgba(242, 234, 216, 0.06);
+}
+.home-link .arrow { font-size: 12px; line-height: 1; }
+
 /* ---------------- 条形图图例 ---------------- */
 .bars-legend {
   display: flex;
@@ -1472,6 +1503,8 @@ html[lang="en"] .section-head h2 { letter-spacing: 0.02em; }
 
 @media (max-width: 720px) {
   .lang-switch { margin: -6px 0 4px; }
+  .topbar { margin: -6px 0 10px; gap: 8px; }
+  .home-link { padding: 4px 10px; font-size: 10px; }
 }
 
 </style>
@@ -1482,9 +1515,14 @@ html[lang="en"] .section-head h2 { letter-spacing: 0.02em; }
 
 <header class="hero">
   <div class="wrap">
-    <div class="lang-switch" role="group" aria-label="Language / 语言">
-      <button type="button" id="lang-zh" class="on" aria-pressed="true">中文</button>
-      <button type="button" id="lang-en" aria-pressed="false">EN</button>
+    <div class="topbar">
+      <a class="home-link" href="https://zsh-zsh-zsh.github.io/" aria-label="返回主页 / Back to homepage">
+        <span class="arrow" aria-hidden="true">&larr;</span><span data-i18n="homeLink">返回主页</span>
+      </a>
+      <div class="lang-switch" role="group" aria-label="Language / 语言">
+        <button type="button" id="lang-zh" class="on" aria-pressed="true">中文</button>
+        <button type="button" id="lang-en" aria-pressed="false">EN</button>
+      </div>
     </div>
     <div class="eyebrow" data-i18n="eyebrow">Publication &amp; Field Atlas · 2017 — 2026</div>
     <h1><span data-i18n="title1">张书涵</span><em data-i18n="title2">学术足迹</em></h1>
@@ -2096,6 +2134,7 @@ window.FOOTPRINT_SHARE_SIMPLE = true;
   var I18N = {
     zh: {
       docTitle: "张书涵学术足迹",
+      homeLink: "返回主页",
       eyebrow: "Publication & Field Atlas · 2017 — 2026",
       title1: "张书涵",
       title2: "学术足迹",
@@ -2159,6 +2198,7 @@ window.FOOTPRINT_SHARE_SIMPLE = true;
     },
     en: {
       docTitle: "Shuhan Zhang · Academic Footprint",
+      homeLink: "Home",
       eyebrow: "Publication & Field Atlas · 2017 — 2026",
       title1: "Shuhan Zhang",
       title2: " Academic Footprint",
