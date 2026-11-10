@@ -1,0 +1,369 @@
+/* ==========================================================================
+   Custom theme — deep purple background, gold line accents, light text
+   Loaded after assets/css/main.css (via _includes/head/custom.html)
+   ========================================================================== */
+
+:root {
+  --bg-deep: #120c1f;
+  --bg-mid: #1a1130;
+  --surface: #1b1232;
+  --surface-soft: #221740;
+  --bar: #0b0716;
+  --gold: #d4af5a;
+  --gold-light: #efd79b;
+  --gold-bright: #ffd98a;
+  --text: #e7e1f4;
+  --text-soft: #cfc7e2;
+  --text-dim: #a99fc0;
+}
+
+/* ---------- page background: deep purple + gold hairlines ---------- */
+html,
+body {
+  background-color: var(--bg-deep) !important;
+}
+
+body {
+  color: var(--text) !important;
+  background-image:
+    repeating-linear-gradient(90deg, rgba(212, 175, 90, 0.055) 0 1px, transparent 1px 160px),
+    repeating-linear-gradient(0deg, rgba(212, 175, 90, 0.035) 0 1px, transparent 1px 160px),
+    radial-gradient(1100px 720px at 12% -8%, rgba(126, 78, 196, 0.32), transparent 68%),
+    radial-gradient(900px 620px at 100% 0%, rgba(84, 44, 150, 0.24), transparent 70%),
+    linear-gradient(180deg, #150e26 0%, #1a1130 45%, #120c1f 100%);
+  background-repeat: repeat, repeat, no-repeat, no-repeat, no-repeat;
+  background-attachment: fixed, fixed, fixed, fixed, fixed;
+  background-size: auto, auto, auto, auto, auto;
+}
+
+body.overflow--hidden {
+  background-color: var(--bg-deep) !important;
+}
+
+::selection {
+  background: rgba(212, 175, 90, 0.38);
+  color: #ffffff;
+}
+
+/* thin gold scrollbar */
+::-webkit-scrollbar {
+  width: 12px;
+  height: 12px;
+}
+::-webkit-scrollbar-track {
+  background: #0e0a19;
+}
+::-webkit-scrollbar-thumb {
+  background: #4a3a6b;
+  border: 2px solid #0e0a19;
+  border-radius: 8px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: var(--gold);
+}
+
+/* ---------- masthead: darkest band, clearly separated from the page ---------- */
+.masthead {
+  background: var(--bar) !important;
+  border-bottom: 1px solid rgba(212, 175, 90, 0.55) !important;
+  box-shadow: 0 1px 0 rgba(212, 175, 90, 0.12), 0 10px 28px rgba(0, 0, 0, 0.5);
+}
+
+.masthead__inner-wrap {
+  background: transparent !important;
+}
+
+.masthead a,
+.masthead .site-title,
+.greedy-nav a,
+.greedy-nav .site-title {
+  color: #e9e2f7 !important;
+}
+
+.greedy-nav a:hover,
+.masthead a:hover {
+  color: var(--gold-bright) !important;
+}
+
+.greedy-nav .visible-links a:before {
+  background: linear-gradient(90deg, rgba(212, 175, 90, 0), var(--gold), rgba(212, 175, 90, 0)) !important;
+}
+
+.masthead__menu-item--lg a,
+.greedy-nav .site-title {
+  color: var(--gold-light) !important;
+  letter-spacing: 0.03em;
+}
+
+.greedy-nav .visible-links a {
+  font-weight: 600;
+}
+
+/* mobile hamburger + dropdown */
+.greedy-nav button,
+.greedy-nav .navicon,
+.greedy-nav .navicon:before,
+.greedy-nav .navicon:after {
+  background: var(--gold) !important;
+}
+
+.greedy-nav .hidden-links {
+  background: #160f2a !important;
+  border: 1px solid rgba(212, 175, 90, 0.4) !important;
+  box-shadow: 0 12px 28px rgba(0, 0, 0, 0.55);
+}
+
+.greedy-nav .hidden-links a {
+  color: #e9e2f7 !important;
+  border-bottom: 1px solid rgba(212, 175, 90, 0.16);
+}
+
+/* ---------- content surface: slightly lighter than background ---------- */
+.page {
+  color: var(--text) !important;
+}
+
+.page__inner-wrap {
+  background: rgba(27, 18, 50, 0.72);
+  border: 1px solid rgba(212, 175, 90, 0.2);
+  border-radius: 16px;
+  box-shadow: 0 18px 46px rgba(0, 0, 0, 0.35);
+  margin-bottom: 2.2em;
+}
+
+@media (min-width: 48em) {
+  .page__inner-wrap {
+    padding: 2em 2.2em;
+  }
+}
+
+.page__title {
+  color: #f7e9c6 !important;
+  border-bottom: 0;
+  text-shadow: 0 1px 0 rgba(0, 0, 0, 0.4);
+}
+
+.page__content,
+.page__content p,
+.page__content li,
+.page__content dd,
+.page__content span {
+  color: var(--text) !important;
+}
+
+.page__content h1,
+.page__content h2,
+.page__content h3,
+.page__content h4,
+.page__content h5,
+.page__content h6,
+h1, h2, h3, h4, h5, h6 {
+  color: #f2e3bd !important;
+}
+
+.page__content h2 {
+  border-bottom: 1px solid rgba(212, 175, 90, 0.35);
+  padding-bottom: 0.35em;
+}
+
+.page__content a,
+.page__content a:visited,
+a {
+  color: #e8c47c !important;
+  text-decoration-color: rgba(212, 175, 90, 0.5);
+}
+
+.page__content a:hover,
+a:hover {
+  color: var(--gold-bright) !important;
+  text-decoration-color: var(--gold-bright);
+}
+
+.page__content strong,
+.page__content b {
+  color: #fbf3df !important;
+}
+
+.page__content em,
+.page__content i {
+  color: #ded6f0 !important;
+}
+
+/* lists, rules, quotes */
+.page__content hr,
+hr {
+  border: 0;
+  border-bottom: 1px solid rgba(212, 175, 90, 0.28);
+}
+
+blockquote {
+  border-left: 3px solid var(--gold) !important;
+  background: rgba(212, 175, 90, 0.07);
+  color: #ded6f0 !important;
+  border-radius: 0 8px 8px 0;
+  padding: 0.6em 1em;
+  font-style: normal;
+}
+
+/* ---------- sidebar author card ---------- */
+.sidebar {
+  background: rgba(30, 21, 52, 0.66);
+  border: 1px solid rgba(212, 175, 90, 0.26);
+  border-radius: 16px;
+  box-shadow: 0 14px 34px rgba(0, 0, 0, 0.35);
+  padding: 1.4em 1.3em;
+}
+
+.author__avatar img {
+  border: 2px solid rgba(212, 175, 90, 0.55);
+  border-radius: 50%;
+}
+
+.author__name,
+.author__name a,
+.sidebar h3,
+.sidebar h4 {
+  color: var(--gold-light) !important;
+}
+
+.author__bio,
+.author__bio p,
+.sidebar p {
+  color: #d8d1ea !important;
+}
+
+.author__urls a,
+.author__urls-wrapper button {
+  color: #e8c47c !important;
+}
+
+.author__urls a:hover {
+  color: var(--gold-bright) !important;
+}
+
+/* ---------- buttons ---------- */
+.btn,
+.btn--inverse,
+.author__urls-wrapper button {
+  background: rgba(212, 175, 90, 0.14) !important;
+  color: #f4dfb4 !important;
+  border: 1px solid rgba(212, 175, 90, 0.55) !important;
+  box-shadow: none;
+}
+
+.btn:hover,
+.btn--inverse:hover,
+.author__urls-wrapper button:hover {
+  background: rgba(212, 175, 90, 0.26) !important;
+  color: #fff3d6 !important;
+  border-color: var(--gold-bright) !important;
+}
+
+/* ---------- code ---------- */
+pre,
+code,
+tt,
+kbd,
+samp {
+  background: #231840 !important;
+  color: #ece3ff;
+  border: 1px solid rgba(212, 175, 90, 0.2);
+  border-radius: 6px;
+}
+
+pre code {
+  background: transparent !important;
+  border: 0;
+}
+
+.highlight,
+div.highlight {
+  background: #231840 !important;
+  border: 1px solid rgba(212, 175, 90, 0.2);
+  border-radius: 8px;
+}
+
+/* ---------- tables ---------- */
+table,
+.page__content table {
+  color: var(--text);
+  border-color: rgba(212, 175, 90, 0.25);
+}
+
+th,
+.page__content th {
+  background: rgba(212, 175, 90, 0.14) !important;
+  color: #f4e4bd !important;
+  border-color: rgba(212, 175, 90, 0.3) !important;
+}
+
+td,
+.page__content td {
+  border-color: rgba(212, 175, 90, 0.16) !important;
+  color: var(--text) !important;
+}
+
+tr:nth-child(even) td {
+  background: rgba(255, 255, 255, 0.025);
+}
+
+/* ---------- notices ---------- */
+.notice,
+.notice--primary,
+.notice--info {
+  background: rgba(126, 78, 196, 0.18) !important;
+  color: #e9e2f7 !important;
+  border-left: 3px solid var(--gold);
+}
+
+/* ---------- footer ---------- */
+.page__footer {
+  background: var(--bar) !important;
+  border-top: 1px solid rgba(212, 175, 90, 0.5) !important;
+  color: #cfc7e2 !important;
+}
+
+.page__footer footer {
+  background: transparent !important;
+}
+
+.page__footer a,
+.page__footer-follow a {
+  color: #e8c47c !important;
+}
+
+.page__footer a:hover {
+  color: var(--gold-bright) !important;
+}
+
+.page__footer-copyright,
+.page__footer-copyright a {
+  color: #b3a9c8 !important;
+}
+
+.page__footer .social-icons a,
+.page__footer .social-icons a .icon {
+  color: #e8c47c !important;
+}
+
+/* ---------- misc: search, pagination, archive ---------- */
+.search__input,
+input[type="text"],
+input[type="search"],
+textarea,
+select {
+  background: #221740 !important;
+  color: var(--text) !important;
+  border: 1px solid rgba(212, 175, 90, 0.35) !important;
+  border-radius: 6px;
+}
+
+.pagination--pager {
+  background: rgba(212, 175, 90, 0.1) !important;
+  color: #ecd9ae !important;
+  border: 1px solid rgba(212, 175, 90, 0.35) !important;
+}
+
+.pagination--pager:hover {
+  background: rgba(212, 175, 90, 0.22) !important;
+}
