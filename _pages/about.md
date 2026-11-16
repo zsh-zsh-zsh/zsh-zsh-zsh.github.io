@@ -12,18 +12,24 @@ redirect_from:
 
 <br>
 
-Hi, my name is **Zhang, Shuhan**. I am a postdoc working on paleontology and stratigraphy at Nanjing University. My works focused on macroevolution at temporal and spatial scales in deep time, quantitative stratigraphy and data analyses in paleobiology.
+Hi, my name is **Zhang, Shuhan**. I am a postdoctoral researcher in palaeontology and stratigraphy at Nanjing University, working with Prof. Shuzhong Shen. My research focuses on macroevolution across deep time — how marine biodiversity, biogeographic patterns and evolutionary rates responded to icehouse–greenhouse climate transitions — together with quantitative stratigraphy, data-driven methods and the application of artificial intelligence and big data to palaeobiology.
 
-I got my geology bachelor and PhD degree at Nanjing University. I like chinese ancient poems, history and all kinds of film and television works, and occasionally do some literary creation. I love the field, fossils, data analysis and visualisation. 
+I received my BSc and PhD in geology from Nanjing University. I have published 19 papers, 7 of them as first or corresponding author, including Science Advances, Geology, Global and Planetary Change, Palaeogeography Palaeoclimatology Palaeoecology and Chinese Science Bulletin, and I have contributed to papers in Science, Earth-Science Reviews and Episodes. I am principal investigator of an NSFC Young Scientists Fund project (2027–2029) and of an NSFC Young Student Basic Research Program project for PhD candidates (2024–2025), and I took part in a PhD project of the Subcommission on Permian Stratigraphy, International Commission on Stratigraphy (2024). In 2026 I was awarded the Postdoctoral Fellowship Program of CPSF (Grade B).
 
-Welcome to visit my [Google Scholar](https://scholar.google.com/citations?user=UG5Sx0UAAAAJ&hl=zh-CN) and [ResearchRate](https://www.researchgate.net/profile/Shuhan-Zhang-6) pages and contact me through e-mail (shzhang@nju.edu.cn).
+I have been a visiting researcher at the University of Oxford (2023) and at Friedrich-Alexander-Universität Erlangen-Nürnberg (2024–2025), and I am a recipient of the National Scholarship (at BSc, MSc and PhD levels) and the Jiangsu Outstanding Graduate award. My 2025 Science Advances paper on fusuline foraminifera was covered by Xinhua News Agency, EurekAlert! and People's Daily.
+
+Outside the lab I enjoy classical Chinese poetry, history and films, and I occasionally write poems and popular-science pieces. I love fieldwork, fossils, data analysis and visualisation.
+
+Welcome to visit my [Google Scholar](https://scholar.google.com/citations?user=UG5Sx0UAAAAJ&hl=zh-CN) and [ResearchGate](https://www.researchgate.net/profile/Shuhan-Zhang-6) pages, or contact me by e-mail (shzhang@nju.edu.cn).
 
 
-Hi~我是**张书涵**，南京大学地球科学与工程学院古生物学与地层学专业的博士后,合作老师为沈树忠院士。我的主要研究方向为深时宏观演化过程的时空特征，定量地层学和古生物学的数据分析方法。本科及博士就读于南京大学地质学专业，以第一作者在学科顶级期刊Science Advances、Geology、GPC和Palaeo3以及综合性学术期刊《科学通报》上发文章，参与了Science、SA、ESR、Episodes等总计16篇SCI文章的工作，主持首批国家自然科学基金青年学生基础研究项目（博士研究生）及2024年国际地层委员会二叠纪地层分会的一个博士生项目，于2023年在英国牛津大学访问交流，于2024-2025年在德国埃尔朗根-纽伦堡大学访问交流，曾获得本、硕、博国家奖学金、江苏省优秀毕业生等荣誉。
+Hi~我是**张书涵**，南京大学地球科学与工程学院古生物学与地层学专业博士后，合作导师为沈树忠院士。主要研究方向为深时宏观演化过程的时空特征、定量地层学与古生物数据分析方法，以及人工智能与大数据在古生物学中的应用，关注海洋生物多样性、生物地理格局与演化速率如何响应冰室—温室气候转型。
 
-喜欢古诗词，历史及各类影视作品，偶尔搞点文学创作。喜欢野外，喜欢化石，喜欢数据分析及可视化。
+本科与博士均就读于南京大学地质学专业。已发表论文 19 篇，其中第一或通讯作者 7 篇，见于 Science Advances、Geology、Global and Planetary Change、Palaeogeography Palaeoclimatology Palaeoecology 及《科学通报》等；另参与发表 Science、Earth-Science Reviews、Episodes 等期刊论文。主持国家自然科学基金青年科学基金项目（C类，2027—2029）、国家自然科学基金青年学生基础研究项目（博士研究生，2024—2025），并参与国际地层委员会二叠纪地层分会博士生项目（2024）；2026 年入选国家资助博士后研究人员计划（B档）。曾于 2023 年在英国牛津大学、2024—2025 年在德国埃尔朗根-纽伦堡大学访问交流，获本、硕、博国家奖学金及江苏省优秀毕业生等荣誉。2025 年发表于 Science Advances 的䗴类有孔虫研究获新华网、EurekAlert!、《人民日报》等媒体报道。
 
-欢迎访问我的[Google Scholar](https://scholar.google.com/citations?user=UG5Sx0UAAAAJ&hl=zh-CN)及[ResearchRate](https://www.researchgate.net/profile/Shuhan-Zhang-6)主页。有事欢迎邮件(shzhang@nju.edu.cn)联系~
+喜欢古诗词，历史及各类影视作品，偶尔搞点文学创作，也写一些科普文章；喜欢野外，喜欢化石，喜欢数据分析及可视化。
+
+欢迎访问我的 [Google Scholar](https://scholar.google.com/citations?user=UG5Sx0UAAAAJ&hl=zh-CN) 及 [ResearchGate](https://www.researchgate.net/profile/Shuhan-Zhang-6) 主页。有事欢迎邮件（shzhang@nju.edu.cn）联系~
 
 <!-- [![post](/images/important/post.png)](https://zsh-zsh-zsh.github.io/year-archive/) -->
 
