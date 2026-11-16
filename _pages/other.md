@@ -51,6 +51,13 @@ Popular science articles  科普文章
 
 <br>
 
+文字创作 Writing
+======
+
+[写诗填词 Chinese Poem](/poems/)
+
+<br>
+
 Some links 相关链接
 ======
 

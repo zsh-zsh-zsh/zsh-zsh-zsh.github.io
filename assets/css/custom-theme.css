@@ -448,3 +448,79 @@ select {
 .pagination--pager:hover {
   background: rgba(212, 175, 90, 0.22) !important;
 }
+
+/* ---------- 写诗填词 / Chinese Poem page ---------- */
+.page__content .poem-intro {
+  font-size: 0.95em;
+  line-height: 2;
+  color: #d8cfe8 !important;
+  border-left: 2px solid rgba(212, 175, 90, 0.55);
+  padding: 0.2em 0 0.2em 1.1em;
+  margin: 0 0 1.6em;
+}
+
+.page__content .poem-back {
+  margin: 0 0 2.6em;
+  font-size: 0.9em;
+}
+
+.page__content .poem {
+  margin: 0 0 2.4em;
+  padding-bottom: 2em;
+  border-bottom: 1px dashed rgba(212, 175, 90, 0.18);
+}
+
+.page__content .poem:last-of-type {
+  border-bottom: none;
+  padding-bottom: 0;
+}
+
+.page__content .poem-title {
+  margin: 0 0 0.25em;
+  text-align: center;
+  font-family: Georgia, "Songti SC", "Noto Serif CJK SC", serif;
+  font-size: 1.32em;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  color: #f2e3bd !important;
+  border-bottom: none;
+  padding-bottom: 0;
+}
+
+.page__content .poem-year {
+  margin: 0 0 1.1em;
+  text-align: center;
+  font-size: 0.82em;
+  letter-spacing: 0.22em;
+  color: #b9a6cd !important;
+}
+
+.page__content .poem-sub {
+  margin: 1.5em 0 0.45em;
+  text-align: center;
+  font-size: 0.95em;
+  letter-spacing: 0.14em;
+  color: #e8c47c !important;
+}
+
+.page__content .poem-body {
+  margin: 0;
+  text-align: center;
+  font-family: Georgia, "Songti SC", "Noto Serif CJK SC", serif;
+  font-size: 1.06em;
+  line-height: 2.15;
+  letter-spacing: 0.04em;
+  color: #ece6f7 !important;
+}
+
+.page__content .poem-gap {
+  margin: 1.2em 0;
+  text-align: center;
+  font-size: 0.7em;
+  color: rgba(212, 175, 90, 0.6) !important;
+}
+
+@media (max-width: 767px) {
+  .page__content .poem-title { font-size: 1.18em; }
+  .page__content .poem-body { font-size: 1em; line-height: 2; }
+}
