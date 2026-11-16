@@ -18,7 +18,7 @@ Honors and awards 获得荣誉
 Reports about me 相关报道
 ======
 
-[乌镇Talk·开源青年说 | 张书涵：地球科学基础模型帮助梳理46亿年地质记录](https://app.xinhuanet.com/news/article.html?articleId=20261102e5502c2b845b4119918534702ec1526e&share_device_token=8161AC1D-D8C5-462E-831F-18338499EC55&share_time=1793622028092&share_type=1&timestamp=4526)
+[乌镇Talk·开源青年说 \| 张书涵：地球科学基础模型帮助梳理46亿年地质记录](https://app.xinhuanet.com/news/article.html?articleId=20261102e5502c2b845b4119918534702ec1526e&share_device_token=8161AC1D-D8C5-462E-831F-18338499EC55&share_time=1793622028092&share_type=1&timestamp=4526)
 
 [变冷促繁荣，变暖致灭绝：科学家用“时间显微镜”揭示3亿年前后海洋生物的生死启示](https://sciencesources.eurekalert.org/news-releases/1087934?language=chinese)
 
