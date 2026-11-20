@@ -75,6 +75,18 @@ author_profile: true
 </section>
 
 <section class="poem">
+  <h3 class="poem-title">北欧行记</h3>
+  <p class="poem-year">2025</p>
+  <p class="poem-body">极望芬兰尽雪松，天涯一线色昭融。<br>三竿午日照宵紫，一片朝晖入晚红。<br>永夜寒光摇翠幕，漫天星火映白绒。<br>冰结沧海能行路，何处蓬莱访圣公。</p>
+</section>
+
+<section class="poem">
+  <h3 class="poem-title">斯特拉斯堡圣诞节旅行</h3>
+  <p class="poem-year">2024</p>
+  <p class="poem-body">列车颠簸法德间，斯堡临冬白雪飘。<br>百巷张灯红酒暖，万人谈笑绿松摇。<br>教堂钟里家国事，相簿影中花柳娇。<br>旧史老番今在此，年华杳杳雨潇潇。</p>
+</section>
+
+<section class="poem">
   <h3 class="poem-title">埃尔朗根的银杏树</h3>
   <p class="poem-year">2024</p>
   <p class="poem-body">满树金黄思旧游，飘摇八载更凭楼。<br>层云展眼销孤月，时雨伤情打客裘。<br>方改三分年少气，平添一缕鬓华秋。<br>江湖渺远归何处，杯酒闲言不见收。</p>
