@@ -10,6 +10,12 @@ author_profile: true
 <p class="poem-back"><a href="/other/">← 返回 Other</a></p>
 
 <section class="poem">
+  <h3 class="poem-title">忆芬兰行记</h3>
+  <p class="poem-year">2026</p>
+  <p class="poem-body">极望芬兰尽雪松，天涯一线色昭融。<br>三竿午日照宵紫，一片朝晖入晚红。<br>永夜寒光摇翠幕，漫天星火映白绒。<br>冰结沧海能行路，何处蓬莱访圣公。</p>
+</section>
+
+<section class="poem">
   <h3 class="poem-title">立秋</h3>
   <p class="poem-year">2026</p>
   <p class="poem-body">夏云呈世幻，急雨晕霞光。<br>未解惜春色，秋情入夜凉。</p>
@@ -49,13 +55,19 @@ author_profile: true
 </section>
 
 <section class="poem">
-  <h3 class="poem-title">科研感想</h3>
+  <h3 class="poem-title">忆斯特拉斯堡圣诞节旅行</h3>
+  <p class="poem-year">2025</p>
+  <p class="poem-body">列车颠簸法德间，斯堡临冬白雪飘。<br>百巷张灯红酒暖，万人谈笑绿松摇。<br>教堂钟里家国事，相簿影中花柳娇。<br>旧史老番今在此，年华杳杳雨潇潇。</p>
+</section>
+
+<section class="poem">
+  <h3 class="poem-title">临博士毕业有感</h3>
   <p class="poem-year">2025</p>
   <p class="poem-body">少无俗世志，一去九年功。<br>稿纸秋沾露，机箱夜引风。<br>论文盘对错，代码问穷通。<br>若问得失意，亭亭雪下松。</p>
 </section>
 
 <section class="poem">
-  <h3 class="poem-title">EGU会议路上随性两首</h3>
+  <h3 class="poem-title">EGU会议路上两首</h3>
   <p class="poem-year">2025</p>
   <p class="poem-body">事和人愿违，人愿是和非。<br>秋水莼鲈美，东门黄犬悲。<br>春华侵晓梦，秋意冷心灰。<br>岁岁花相似，刘郎他日回。</p>
   <p class="poem-gap">◆</p>
@@ -63,27 +75,15 @@ author_profile: true
 </section>
 
 <section class="poem">
-  <h3 class="poem-title">清明</h3>
+  <h3 class="poem-title">德国清明</h3>
   <p class="poem-year">2025</p>
   <p class="poem-body">日暖生芳草，春来洗客袍。<br>三年十万里，一梦九重霄。<br>世味淡成水，心城夜涌潮。<br>重山何处去，江海更明朝。</p>
 </section>
 
 <section class="poem">
-  <h3 class="poem-title">到处旅游以后的春天遐想</h3>
+  <h3 class="poem-title">春天遐想</h3>
   <p class="poem-year">2025</p>
   <p class="poem-body">小楼久坐偶思家，千里更行寻彩霞。<br>今古亭台终是客，川陵烟景不知涯。<br>年光与物陈成酒，世事和忧饮作茶。<br>新岁凭栏还望远，青山一线隔龙沙。</p>
-</section>
-
-<section class="poem">
-  <h3 class="poem-title">北欧行记</h3>
-  <p class="poem-year">2025</p>
-  <p class="poem-body">极望芬兰尽雪松，天涯一线色昭融。<br>三竿午日照宵紫，一片朝晖入晚红。<br>永夜寒光摇翠幕，漫天星火映白绒。<br>冰结沧海能行路，何处蓬莱访圣公。</p>
-</section>
-
-<section class="poem">
-  <h3 class="poem-title">斯特拉斯堡圣诞节旅行</h3>
-  <p class="poem-year">2024</p>
-  <p class="poem-body">列车颠簸法德间，斯堡临冬白雪飘。<br>百巷张灯红酒暖，万人谈笑绿松摇。<br>教堂钟里家国事，相簿影中花柳娇。<br>旧史老番今在此，年华杳杳雨潇潇。</p>
 </section>
 
 <section class="poem">
@@ -99,31 +99,31 @@ author_profile: true
 </section>
 
 <section class="poem">
-  <h3 class="poem-title">2023英国访问</h3>
+  <h3 class="poem-title">英国访问偶感</h3>
   <p class="poem-year">2023</p>
   <p class="poem-body">烟雨秦淮惯渺绵，金陵好景四时全。<br>秋风故国三千里，江水石城廿五年。<br>彩笔新题枫落句，青衫归唱白云篇。<br>韶华几许堪辜负，明月钟山顾我怜。</p>
 </section>
 
 <section class="poem">
-  <h3 class="poem-title">2023西藏会议野外</h3>
+  <h3 class="poem-title">西藏野外</h3>
   <p class="poem-year">2023</p>
   <p class="poem-body">暂去江南来藏南，人间清暑换苍寒。<br>樱花四月飞河谷，云幕千寻横雪山。<br>百转不将心惧远，一生何患路行难。<br>平阳已晚芳菲尽，高岗东风他日还。</p>
 </section>
 
 <section class="poem">
-  <h3 class="poem-title">2022记山西山东PT寒武野外</h3>
+  <h3 class="poem-title">二零二二记山西山东二叠寒武野外</h3>
   <p class="poem-year">2022</p>
   <p class="poem-body">自晋初还复访齐，亿年三五海山移。<br>去来骤雨暑风暖，高下峰峦云霭栖。<br>晚古江河枯骨没，海侵寒武小虫奇。<br>石纹岩理古今事，行路探知先斩棘。</p>
 </section>
 
 <section class="poem">
-  <h3 class="poem-title">2022南大校庆</h3>
+  <h3 class="poem-title">二零二二南大校庆</h3>
   <p class="poem-year">2022</p>
   <p class="poem-body">两江十代领文宗，百廿芳华今日逢。<br>藤蔓远钟盈北塔，苍梧大道启南雍。<br>诚勤后学千重浪，金玉先声万壑松。<br>教泽天开披此世，英风豪气正当胸。</p>
 </section>
 
 <section class="poem">
-  <h3 class="poem-title">毕业在即</h3>
+  <h3 class="poem-title">本科毕业在即</h3>
   <p class="poem-year">2021</p>
   <p class="poem-body">寒窗十载此相逢，巡壑凿岩看小虫。<br>万里春风江国北，三年明月院楼东。<br>云山晴雨经行处，今古兴亡典论中。<br>饮水料应知冷暖，男儿何事谓穷通。</p>
 </section>
