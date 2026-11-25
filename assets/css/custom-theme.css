@@ -427,6 +427,33 @@ tr:nth-child(even) td {
   color: #e8c47c !important;
 }
 
+/* 页脚只剩一句诗：居中、金色、大字距 */
+.page__footer-epilogue {
+  padding: 1.6em 1em 1.8em;
+  text-align: center;
+}
+
+.page__footer-epilogue p {
+  margin: 0;
+  font-family: Georgia, "Songti SC", "STSong", serif;
+  font-size: 1.05em;
+  letter-spacing: 0.18em;
+  color: #e8c47c;
+  text-indent: 0.18em;
+}
+
+@media screen and (max-width: 767px) {
+  .page__footer-epilogue {
+    padding: 1.2em 1em 1.3em;
+  }
+
+  .page__footer-epilogue p {
+    font-size: 0.95em;
+    letter-spacing: 0.12em;
+    text-indent: 0.12em;
+  }
+}
+
 /* ---------- misc: search, pagination, archive ---------- */
 .search__input,
 input[type="text"],
