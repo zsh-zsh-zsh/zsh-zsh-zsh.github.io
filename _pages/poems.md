@@ -10,6 +10,18 @@ author_profile: true
 <p class="poem-back"><a href="/other/">← 返回 Other</a></p>
 
 <section class="poem">
+  <h3 class="poem-title">欧洲圣诞节回忆</h3>
+  <p class="poem-year">2026</p>
+  <p class="poem-body">一岁辞来又近冬，佳节不与四时同。<br>平河漫漫浮朝日，古堡悠悠送晚钟。<br>美酒盈杯歌路远，华灯尽夜染苍穹。<br>人生谁道如流水，此地莱茵不向东。</p>
+</section>
+
+<section class="poem">
+  <h3 class="poem-title">忆罗马行记</h3>
+  <p class="poem-year">2026</p>
+  <p class="poem-body">斑驳古道矮松青，海色天风似有情。<br>展眼曾金拥雪像，回头幻彩映仙庭。<br>千秋名刹随方布，百态宫厅入画行。<br>人怪烂柯楼殿在，台河明月水盈盈。</p>
+</section>
+
+<section class="poem">
   <h3 class="poem-title">忆芬兰行记</h3>
   <p class="poem-year">2026</p>
   <p class="poem-body">极望芬兰尽雪松，天涯一线色昭融。<br>三竿午日照宵紫，一片朝晖入晚红。<br>永夜寒光摇翠幕，漫天星火映白绒。<br>冰结沧海能行路，何处蓬莱访圣公。</p>
@@ -131,7 +143,9 @@ author_profile: true
 <section class="poem">
   <h3 class="poem-title">贺新郎·新西兰皇后镇平安夜记</h3>
   <p class="poem-year">2019</p>
-  <p class="poem-body">圣诞他乡度。<br>颂歌声、酒香灯火，翠湖春暮。<br>遥看冰川行千谷，青草牛羊满目。<br>寻思起，峰峦缘故。<br>当日陆离横碧海，更抬升、西岸山无数。<br>岩裂处，冰河舞。<br>细观纹理湖湾驻。<br>陡石崖，登临快意，平生几度。<br>沧海云天都一晌，俊险年来行处。<br>自惊叹，天工万物。<br>客路光阴随流水，算韶华，未敢轻辜负。<br>甘与苦，还行路。</p>
+  <p class="poem-body">圣诞他乡度。<br>颂歌声、酒香灯火，翠湖春暮。<br>遥看冰川行千谷，青草牛羊满目。<br>寻思起，峰峦缘故。<br>当日陆离横碧海，更抬升、西岸山无数。<br>岩裂处，冰河舞。</p>
+  <p class="poem-gap">◆</p>
+  <p class="poem-body">细观纹理湖湾驻。<br>陡石崖，登临快意，平生几度。<br>沧海云天都一晌，俊险年来行处。<br>自惊叹，天工万物。<br>客路光阴随流水，算韶华，未敢轻辜负。<br>甘与苦，还行路。</p>
 </section>
 
 <section class="poem">
