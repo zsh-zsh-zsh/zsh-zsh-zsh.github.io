@@ -5,14 +5,14 @@ permalink: /poems/
 author_profile: true
 ---
 
-<p class="poem-intro">自幼喜欢诗词，读来有神游天地、心肠冷热的快感，故也想自述情怀，以达其境。但天赋有限、缺少系统学习和训练，未有佳作。但终归尽是一时心绪，值得一记。更兼督促勤加练习，他日或有名篇，故置于此，聊表前事。</p>
+<p class="poem-intro">吟诗作赋北窗里，万言不值一杯水。</p>
 
 <p class="poem-back"><a href="/other/">← 返回 Other</a></p>
 
 <section class="poem">
   <h3 class="poem-title">欧洲圣诞节回忆</h3>
   <p class="poem-year">2026</p>
-  <p class="poem-body">一岁辞来又近冬，佳节不与四时同。<br>平河漫漫浮朝日，古堡悠悠送晚钟。<br>美酒盈杯歌路远，华灯尽夜染苍穹。<br>人生谁道如流水，此地莱茵不向东。</p>
+  <p class="poem-body">一岁辞来又近冬，佳节不与四时同。<br>平河漫漫浮朝日，古堡悠悠送晚钟。<br>美酒盈杯歌远路，华灯尽夜染苍穹。<br>人生谁道如流水，此地莱茵不向东。</p>
 </section>
 
 <section class="poem">
